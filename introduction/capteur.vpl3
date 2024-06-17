@@ -1,0 +1,86 @@
+{
+	"basicBlocks": [
+		"button 1",
+		"horiz prox",
+		"color 8 state",
+		"state 256",
+		"motor",
+		"top color 8",
+		"set state 256",
+		"set state 256 with mask",
+		"notes",
+		"set timer"
+	],
+	"basicMultiEvent": true,
+	"disabledUI": [
+		"src:language",
+		"vpl:exportToHTML",
+		"vpl:flash"
+	],
+	"program": [
+		{
+			"blocks": [
+				{
+					"name": "horiz prox",
+					"disabled": false,
+					"locked": false,
+					"param": [
+						1,
+						0,
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "motor",
+					"disabled": false,
+					"locked": false,
+					"param": [
+						0,
+						0
+					]
+				}
+			],
+			"disabled": false,
+			"locked": false
+		},
+		{
+			"blocks": [
+				{
+					"name": "horiz prox",
+					"disabled": false,
+					"locked": false,
+					"param": [
+						-1,
+						0,
+						0,
+						0,
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "motor",
+					"disabled": false,
+					"locked": false,
+					"param": [
+						0.8529303081812134,
+						0.8529303081812134
+					]
+				}
+			],
+			"disabled": false,
+			"locked": false
+		},
+		{
+			"blocks": [],
+			"disabled": false,
+			"locked": false
+		}
+	],
+	"code": null
+}
