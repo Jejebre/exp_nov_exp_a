@@ -1,0 +1,10 @@
+OP6671ab40 %Run leds.py
+OP6671ab41 Traceback (most recent call last):
+OP6671ab41   
+OP6671ab41 File "/Users/jerome/Downloads/exp_nov_exp_a/introduction/leds.py", line 2, in <module>
+OP6671ab41     nf_leds_top (32,16,16) # Red: 32, Green: 16, Blue: 0, result: orange
+OP6671ab41 NameError: name 'nf_leds_top' is not defined
+OP6671ab41 >>> 
+RN6671ab41 
+WO6671ab46 
+WI6671ab5d 
