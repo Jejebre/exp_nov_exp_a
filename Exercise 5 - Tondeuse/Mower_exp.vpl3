@@ -1,0 +1,131 @@
+{
+	"basicBlocks": [
+		"button 1",
+		"ground",
+		"horiz prox",
+		"horiz prox front adv",
+		"horiz prox back adv",
+		"color 8 state",
+		"state 256",
+		"timer",
+		"motor",
+		"top color 8",
+		"set state 256",
+		"notes",
+		"set timer"
+	],
+	"basicMultiEvent": true,
+	"disabledUI": [
+		"src:language",
+		"vpl:exportToHTML",
+		"vpl:flash"
+	],
+	"program": [
+		{
+			"blocks": [
+				{
+					"name": "horiz prox front adv",
+					"disabled": false,
+					"locked": false,
+					"param": [
+						0,
+						0,
+						0,
+						-1,
+						0,
+						0.2
+					]
+				},
+				{
+					"name": "motor",
+					"disabled": false,
+					"locked": false,
+					"param": [
+						0.831645850269751,
+						0.831645850269751
+					]
+				}
+			],
+			"disabled": false,
+			"locked": false
+		},
+		{
+			"blocks": [
+				{
+					"name": "horiz prox back adv",
+					"disabled": false,
+					"locked": false,
+					"param": [
+						0,
+						1,
+						0.2
+					]
+				},
+				{
+					"name": "motor",
+					"disabled": false,
+					"locked": false,
+					"param": [
+						-0.509274998152391,
+						0.509274998152391
+					]
+				}
+			],
+			"disabled": false,
+			"locked": false
+		},
+		{
+			"blocks": [
+				{
+					"name": "button 1",
+					"disabled": false,
+					"locked": false,
+					"param": [
+						0
+					]
+				},
+				{
+					"name": "motor",
+					"disabled": false,
+					"locked": false,
+					"param": [
+						0,
+						0
+					]
+				}
+			],
+			"disabled": false,
+			"locked": false
+		},
+		{
+			"blocks": [
+				{
+					"name": "ground",
+					"disabled": false,
+					"locked": false,
+					"param": [
+						-1,
+						-1
+					]
+				},
+				{
+					"name": "motor",
+					"disabled": false,
+					"locked": false,
+					"param": [
+						0.9349641563816422,
+						-0.9349641563816422
+					]
+				}
+			],
+			"disabled": false,
+			"locked": false
+		},
+		{
+			"blocks": [],
+			"disabled": false,
+			"locked": false
+		}
+	],
+	"code": null
+}
