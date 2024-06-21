@@ -28,3 +28,9 @@ OP66756e3f  --- Start of the program Bug2_Garden.py ---
 OP66756e3f LOGS: Wheels , 250 , 250
 OP66756e41 LOGS: Wheels , 250 , -250
 OP66756e43 LOGS: Wheels , 250 , 250
+OP66756e65  --- Start of the program Bug2_Garden.py --- 
+OP66756e65 LOGS: Wheels , 250 , 250
+OP66756e68 LOGS: Wheels , -250 , 250
+OP66756e69 LOGS: Wheels , 250 , 250
+OP66756e81  --- Start of the program Bug2_Garden.py --- 
+OP66756e82 LOGS: Wheels , 250 , 250
