@@ -20,3 +20,53 @@ OP66756ffb  --- Start of the program Bug2_Garden.py ---
 OP66756ffd LOGS: forward , pressed
 OP66756ffd LOGS: Wheels , 255 , 255
 OP66756ffd LOGS: forward , released
+OP66757007  --- Start of the program Bug2_Garden.py --- 
+OP66757008  --- Start of the program Bug2_Garden.py --- 
+OP66757009 LOGS: forward , pressed
+OP66757009 LOGS: Wheels , 255 , 255
+OP66757009 LOGS: forward , released
+OP6675700b LOGS: left , pressed
+OP6675700b LOGS: Wheels , -100 , 100
+OP6675700b LOGS: left , released
+OP6675700d LOGS: forward , pressed
+OP6675700d LOGS: Wheels , 255 , 255
+OP6675700d LOGS: forward , released
+OP6675700f LOGS: left , pressed
+OP6675700f LOGS: Wheels , -100 , 100
+OP6675700f LOGS: left , released
+OP66757011 LOGS: forward , pressed
+OP66757011 LOGS: Wheels , 255 , 255
+OP66757011 LOGS: forward , released
+OP66757013 LOGS: right , pressed
+OP66757013 LOGS: Wheels , 100 , -100
+OP66757013 LOGS: right , released
+OP66757015 LOGS: forward , pressed
+OP66757015 LOGS: forward , released
+OP66757015 LOGS: Wheels , 255 , 255
+OP66757016 LOGS: right , pressed
+OP66757016 LOGS: Wheels , 100 , -100
+OP66757016 LOGS: right , released
+OP66757018 LOGS: forward , pressed
+OP66757018 LOGS: forward , released
+OP66757018 LOGS: Wheels , 255 , 255
+OP6675701a LOGS: center , pressed
+OP6675701a LOGS: center , released
+OP6675701a LOGS: Wheels , 0 , 0
+OP66757026 LOGS: backward , pressed
+OP66757026 LOGS: Wheels , 0 , -255
+OP66757026 LOGS: backward , released
+OP66757027 LOGS: Acc , 0 , 0 , 25
+OP66757028 LOGS: right , pressed
+OP66757028 LOGS: right , released
+OP6675702a LOGS: backward , pressed
+OP6675702a LOGS: backward , released
+OP6675702a LOGS: Wheels , 100 , -255
+OP6675702b LOGS: center , pressed
+OP6675702b LOGS: Wheels , 0 , 0
+OP6675702b LOGS: center , released
+OP66757032 LOGS: Acc , -2 , 2 , 27
+OP66757034 LOGS: Acc , -11 , 8 , 15
+OP66757035 LOGS: Acc , -10 , 1 , 14
+OP6675703a  --- Start of the program Bug2_Garden.py --- 
+OP6675703b LOGS: backward , pressed
+OP6675703b LOGS: Wheels , -255 , -255
