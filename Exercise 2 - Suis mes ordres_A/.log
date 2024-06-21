@@ -29,3 +29,27 @@ OP6675595a LOGS: left , released
 OP6675595d LOGS: forward , pressed
 OP6675595d LOGS: Wheels , 255 , 255
 OP6675595d LOGS: forward , released
+OP6675595e LOGS: left , pressed
+OP6675595e LOGS: Wheels , -100 , 100
+OP6675595e LOGS: left , released
+OP66755960 LOGS: forward , pressed
+OP66755960 LOGS: forward , released
+OP66755960 LOGS: Wheels , 255 , 255
+OP66755962 LOGS: right , pressed
+OP66755962 LOGS: Wheels , 100 , -100
+OP66755962 LOGS: right , released
+OP66755965 LOGS: forward , pressed
+OP66755965 LOGS: Wheels , 255 , 255
+OP66755965 LOGS: forward , released
+OP66755966 LOGS: right , pressed
+OP66755966 LOGS: right , released
+OP66755966 LOGS: Wheels , 100 , -100
+OP66755967 LOGS: forward , pressed
+OP66755967 LOGS: Wheels , 255 , 255
+OP66755968 LOGS: forward , released
+OP66755969 LOGS: center , pressed
+OP66755969 LOGS: center , released
+OP66755969 LOGS: Wheels , 0 , 0
+OP66755976 LOGS: Acc , -3 , 0 , 24
+OP66755989 LOGS: Acc , 3 , -5 , 27
+OP6675598c LOGS: Acc , 0 , 0 , 14
