@@ -28,3 +28,21 @@ OP66759122 LOGS: Wheels , 0 , 0
 OP66759122 LOGS: center , released
 UD66759139 
 UD66759139 
+CP66759154 
+CP66759154 
+UD6675915e 
+UD6675915e 
+UD6675915e 
+UD6675915e 
+UD6675915e 
+UD6675915e 
+UD6675915f 
+UD6675915f 
+OP66759176  --- Start of the program Bug_TheTransporter.py --- 
+OP66759176 LOGS: forward , pressed
+OP66759176 LOGS: Wheels , 251 , 251
+OP66759176 LOGS: forward , released
+OP66759176 LOGS: Wheels , -251 , -251
+OP66759178 LOGS: center , pressed
+OP66759178 LOGS: Wheels , 0 , 0
+OP66759178 LOGS: center , released
