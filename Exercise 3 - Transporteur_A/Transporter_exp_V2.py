@@ -47,6 +47,10 @@ def buttons():
         motor_right_target = 0
         mode = STOP
         nf_leds_top(0, 0, 0)  # Turn off all LEDs
+    elif button_forward:
+        mode = NORMAL
+        motor_left_target = 251
+        motor_right_target = 251
         
         
         

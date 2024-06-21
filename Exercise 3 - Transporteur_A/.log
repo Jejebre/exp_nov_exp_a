@@ -3,3 +3,11 @@ OP667590bf LOGS: Wheels , -251 , -251
 OP667590c0 LOGS: center , pressed
 OP667590c0 LOGS: Wheels , 0 , 0
 OP667590c0 LOGS: center , released
+OP66759108  --- Start of the program Bug_TheTransporter.py --- 
+OP66759109 LOGS: forward , pressed
+OP66759109 LOGS: Wheels , 251 , 251
+OP66759109 LOGS: forward , released
+OP6675910a LOGS: Wheels , -251 , -251
+OP6675910c LOGS: center , pressed
+OP6675910d LOGS: center , released
+OP6675910d LOGS: Wheels , 0 , 0
