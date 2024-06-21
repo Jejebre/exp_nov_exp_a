@@ -1,5 +1,5 @@
-forward_time = 2600
-turn_time = 1300
+forward_time = 3500
+turn_time = 1200
 timer_period[0] = 100
 going_forward = False
 
