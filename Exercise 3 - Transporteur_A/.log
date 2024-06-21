@@ -1,1 +1,32 @@
 OP667559c5 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP66755adf  --- Start of the program Bug2_Garden.py --- 
+OP66755adf LOGS: Wheels , 251 , 251
+OP66755ae0 LOGS: Wheels , -251 , -251
+OP66755ae0 LOGS: Wheels , 251 , 251
+OP66755ae0 LOGS: Wheels , -251 , -251
+OP66755ae0 LOGS: Wheels , 251 , 251
+OP66755ae1 LOGS: Wheels , -251 , -251
+OP66755ae1 LOGS: Wheels , 251 , 251
+OP66755ae1 LOGS: Wheels , -251 , -251
+OP66755ae1 LOGS: Wheels , 251 , 251
+OP66755ae1 LOGS: Wheels , -251 , -251
+OP66755ae1 LOGS: Wheels , 251 , 251
+OP66755ae2 LOGS: Wheels , -251 , -251
+OP66755ae2 LOGS: Wheels , 251 , 251
+OP66755ae2 LOGS: Wheels , -251 , -251
+OP66755ae2 LOGS: Wheels , 251 , 251
+OP66755ae3 LOGS: Wheels , -251 , -251
+OP66755ae3 LOGS: Wheels , 251 , 251
+OP66755ae3 LOGS: Wheels , -251 , -251
+OP66755ae3 LOGS: Wheels , 251 , 251
+OP66755ae3 LOGS: Wheels , -251 , -251
+OP66755af9  --- Start of the program Bug2_Garden.py --- 
+OP66755af9 LOGS: Wheels , 251 , 251
+OP66755af9 LOGS: Wheels , -251 , -251
+OP66755b08  --- Start of the program Bug2_Garden.py --- 
+OP66755b08 LOGS: Wheels , 251 , 251
+OP66755b09 LOGS: Wheels , -251 , -251
+OP66755b0a LOGS: Wheels , 251 , 251
+OP66755b0c LOGS: Wheels , -251 , -251
+OP66755b0d LOGS: Wheels , 251 , 251
+OP66755b0e LOGS: Wheels , -251 , -251
