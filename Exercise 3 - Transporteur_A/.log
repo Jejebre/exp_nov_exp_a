@@ -119,3 +119,27 @@ OP66759209 1002
 OP66759209 1002
 OP66759209 LOGS: center , released
 OP6675920a LOGS: Acc , -1 , 1 , 24
+OP66759211  --- Start of the program Bug_TheTransporter.py --- 
+OP66759212 LOGS: forward , pressed
+OP66759212 LOGS: Wheels , 251 , 251
+OP66759212 LOGS: forward , released
+OP66759213 LOGS: Wheels , -251 , -251
+OP66759215 LOGS: center , pressed
+OP66759215 995
+OP66759215 LOGS: Wheels , 0 , 0
+OP66759215 995
+OP66759215 LOGS: center , released
+OP66759223  --- Start of the program Bug_TheTransporter.py --- 
+OP66759224 LOGS: forward , pressed
+OP66759224 LOGS: Wheels , 251 , 251
+OP66759224 LOGS: forward , released
+OP66759227 LOGS: Wheels , -251 , -251
+OP66759227 LOGS: Wheels , -251 , 251
+OP66759229 LOGS: Wheels , 251 , 251
+OP6675922b LOGS: Wheels , -251 , -251
+OP6675922b LOGS: Wheels , -251 , 251
+OP6675922d LOGS: Wheels , 251 , 251
+OP6675922f LOGS: Wheels , -251 , -251
+OP6675922f LOGS: Wheels , -251 , 251
+OP66759231 LOGS: Wheels , 251 , 251
+OP66759233 LOGS: Wheels , -251 , -251
