@@ -1,3 +1,6 @@
 OP667570de LOGS: Acc , 2 , -5 , 25
 OP667570df Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
 OP66757106 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP66757151 Error: expected ':'
+OP66757151     
+OP66757151 Line 18
