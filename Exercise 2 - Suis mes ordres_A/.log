@@ -4,3 +4,9 @@ WO66755677
 WI6675567d 
 WO667556c3 
 WI667556c7 
+OP66755911  --- Start of the program Bug2_Garden.py --- 
+OP66755912 LOGS: forward , pressed
+OP66755912 LOGS: Wheels , -255 , -255
+OP66755913 LOGS: forward , released
+OP66755914 LOGS: Acc , 5 , 2 , 29
+OP66755916 LOGS: Acc , -7 , 7 , 13
