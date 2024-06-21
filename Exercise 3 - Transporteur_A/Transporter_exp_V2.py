@@ -46,6 +46,7 @@ def buttons():
         motor_left_target = 0
         motor_right_target = 0
         mode = STOP
+        print(prox_ground_delta[0])
         nf_leds_top(0, 0, 0)  # Turn off all LEDs
     elif button_forward:
         mode = NORMAL
