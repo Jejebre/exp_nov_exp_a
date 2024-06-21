@@ -37,3 +37,26 @@ OP66757229 Line 18
 OP66757229 Error: expected ':'
 OP66757229     
 OP66757229 Line 18
+OP6675723d  --- Start of the program Bug2_Garden.py --- 
+OP6675723d LOGS: Wheels , 251 , 251
+OP6675723d LOGS: Wheels , -251 , -251
+OP66757241 LOGS: Acc , -7 , 5 , 22
+OP66757242 LOGS: Acc , -6 , 9 , 17
+OP6675724e  --- Start of the program Bug2_Garden.py --- 
+OP6675724e LOGS: Wheels , 251 , 251
+OP6675724f LOGS: Wheels , -251 , -251
+OP6675724f  --- Start of the program Bug2_Garden.py --- 
+OP6675724f LOGS: Wheels , 251 , 251
+OP6675724f LOGS: Wheels , -251 , -251
+OP66757252 LOGS: Acc , 4 , 6 , 20
+OP66757253  --- Start of the program Bug2_Garden.py --- 
+OP66757253 LOGS: Wheels , 251 , 251
+OP66757253 LOGS: Wheels , -251 , -251
+OP66757258  --- Start of the program Bug2_Garden.py --- 
+OP66757258 LOGS: Wheels , 251 , 251
+OP66757264  --- Start of the program Bug2_Garden.py --- 
+OP66757264 LOGS: Wheels , 251 , 251
+OP66757264 LOGS: Wheels , -251 , -251
+OP66757269 LOGS: Acc , 4 , 1 , 24
+OP6675726a LOGS: Wheels , 251 , 251
+OP6675726a LOGS: Acc , -1 , 11 , 14
