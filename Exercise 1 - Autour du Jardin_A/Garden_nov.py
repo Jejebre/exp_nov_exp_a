@@ -17,7 +17,7 @@ def timer0():
         timer_period[0] = turn_time
         nf_leds_top(32,16,0) # Orange
         motor_right_target = 250
-        motor_left_target = -150
+        motor_left_target = -250
         
 
 
