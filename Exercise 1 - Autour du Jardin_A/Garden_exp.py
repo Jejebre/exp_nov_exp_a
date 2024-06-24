@@ -1,5 +1,5 @@
 time_A = 3000
-time_B = 1100
+time_B = 1150
 timer_period[0] = 100
 going_forward = False
 
