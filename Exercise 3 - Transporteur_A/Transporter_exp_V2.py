@@ -25,9 +25,9 @@ def prox():
     elif mode == WALLS:
         nf_leds_top(32, 0, 0)  # Red
         
-        if prox_ground_delta[0] < 00 or prox_ground_delta[1] < 1000:
+        if prox_ground_delta[0] < 800 or prox_ground_delta[1] < 800:
             mode = LINE
-            timer_period[0] = 2000 #turn during 1950ms            
+            timer_period[0] = 1950 #turn during 1950ms            
             motor_left_target = -251
             motor_right_target = 251
 
@@ -39,6 +39,7 @@ def timer0():
         motor_left_target = 251 
         motor_right_target = 251
         nf_leds_top(32, 32, 0) # Orange
+        timer_period[0] = 0
         mode = NORMAL
         
 @onevent
