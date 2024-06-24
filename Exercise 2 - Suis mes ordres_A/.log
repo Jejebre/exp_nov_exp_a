@@ -12,3 +12,9 @@ OP66793ff3  --- Start of the program Bug2_Garden.py ---
 OP66793ff4 LOGS: forward , pressed
 OP66793ff4 LOGS: Wheels , -255 , -255
 OP66793ff4 LOGS: forward , released
+OP6679402b  --- Start of the program Bug2_Garden.py --- 
+OP66794030 LOGS: left , pressed
+OP66794030 LOGS: Wheels , -100 , 100
+OP66794030 LOGS: left , released
+OP66794036  --- Start of the program Bug2_Garden.py --- 
+OP66794036 LOGS: Wheels , 100 , -100
