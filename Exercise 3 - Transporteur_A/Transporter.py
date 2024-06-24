@@ -10,10 +10,13 @@ def prox():
         
     nf_leds_top(32,16,0) # Orange
 
-    if prox_horizontal[front] < 2500:
+    if prox_horizontal[front] > 4000:
         nf_leds_top(0,32,0) # Green
         motor_left_target = -speed 
-        motor_right_target = -speed
+        motor_right_target = speed
+        if prox_horizontal[front] < 2000
+        
+    
         
         
 
