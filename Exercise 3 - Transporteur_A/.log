@@ -226,3 +226,24 @@ OP6679a1d3  --- Start of the program Bug_TheTransporter.py ---
 OP6679a1d4 LOGS: Wheels , 251 , 251
 OP6679a1d5 LOGS: Wheels , -251 , -251
 OP6679a1d6 LOGS: Wheels , -251 , 251
+OP6679a1d8 LOGS: Wheels , 251 , 251
+OP6679a1d9 LOGS: Wheels , -251 , -251
+OP6679a1da LOGS: Wheels , -251 , 251
+OP6679a1dc LOGS: Wheels , 251 , 251
+OP6679a1de LOGS: Wheels , -251 , -251
+OP6679a1de LOGS: Wheels , -251 , 251
+OP6679a1e0 LOGS: Wheels , 251 , 251
+OP6679a1e2 LOGS: Acc , 0 , -7 , 19
+OP6679a1e6  --- Start of the program Bug_TheTransporter.py --- 
+OP6679a1e6 LOGS: Wheels , 251 , 251
+OP6679a1e7 LOGS: Wheels , -251 , -251
+OP6679a1e8 LOGS: Wheels , -251 , 251
+OP6679a1ea LOGS: Wheels , 251 , 251
+OP6679a1eb LOGS: Wheels , -251 , -251
+OP6679a1ec LOGS: Wheels , -251 , 251
+OP6679a1ee LOGS: Wheels , 251 , 251
+OP6679a1ef LOGS: center , pressed
+OP6679a1ef LOGS: Wheels , 0 , 0
+OP6679a1ef LOGS: center , released
+WO6679a1fc 
+WI6679a203 
