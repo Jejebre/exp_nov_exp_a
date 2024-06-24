@@ -31,3 +31,44 @@ OP66798c42 LOGS: Wheels , 251 , 251
 OP66798c43 LOGS: Wheels , -251 , 251
 OP66798c44 LOGS: Wheels , 251 , 251
 OP66798c45 LOGS: Acc , 4 , -2 , 14
+OP66798c87 Error: unknown variable 'side'
+OP66798c87     
+OP66798c87 Line 17
+OP66798c8a Error: unknown variable 'side'
+OP66798c8a     
+OP66798c8a Line 17
+OP66798c8b Error: unknown variable 'side'
+OP66798c8b     
+OP66798c8b Line 17
+CP66798c91 
+CP66798c91 
+PS66798c94 
+PS66798c94 
+OP66798c96  --- Start of the program Bug2_Garden.py --- 
+OP66798c96 LOGS: Wheels , 251 , 251
+OP66798c97 LOGS: Wheels , -251 , 251
+OP66798c98 LOGS: Wheels , 251 , 251
+OP66798c9b LOGS: Acc , -4 , 2 , 22
+OP66798c9b LOGS: Wheels , -251 , 251
+OP66798c9c LOGS: Acc , 5 , 5 , 19
+OP66798c9c LOGS: Wheels , 251 , 251
+OP66798c9d LOGS: Acc , 4 , -1 , 14
+OP66798cac  --- Start of the program Bug2_Garden.py --- 
+OP66798cac LOGS: Wheels , 251 , 251
+OP66798cad LOGS: Wheels , -251 , 251
+OP66798cad LOGS: Wheels , 251 , 251
+OP66798cae LOGS: Wheels , -251 , 251
+OP66798caf LOGS: Acc , -4 , -10 , 20
+OP66798cb0 LOGS: center , pressed
+OP66798cb0 LOGS: center , released
+OP66798cbf  --- Start of the program Bug2_Garden.py --- 
+OP66798cbf LOGS: Wheels , 251 , 251
+OP66798cc0 LOGS: Wheels , -251 , 251
+OP66798cc0 LOGS: Wheels , 251 , 251
+OP66798cc0 LOGS: Wheels , -251 , 251
+OP66798cc0 LOGS: Wheels , 251 , 251
+OP66798cc0 LOGS: Wheels , -251 , 251
+OP66798cc0 LOGS: Wheels , 251 , 251
+OP66798cc1 LOGS: Wheels , -251 , 251
+OP66798cc1 LOGS: Wheels , 251 , 251
+OP66798cc3 LOGS: Acc , -4 , -8 , 21
