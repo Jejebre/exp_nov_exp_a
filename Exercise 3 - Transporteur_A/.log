@@ -12,3 +12,22 @@ PS66798a74
 PS66798a74 
 PS66798a74 
 PS66798a74 
+WO66798a84 
+WI66798ba5 
+WO66798bb8 
+WI66798bc4 
+WO66798bc6 
+WI66798bdb 
+OP66798bf9 Cannot connect to robot
+OP66798c08 Python 3.10.11 (/Applications/Thonny.app/Contents/Frameworks/Python.framework/Versions/3.10/bin/python3.10)
+OP66798c08 >>> 
+OP66798c0f  --- Start of the program Bug2_Garden.py --- 
+OP66798c0f LOGS: Wheels , 251 , 251
+OP66798c10 LOGS: Wheels , -251 , 251
+OP66798c27  --- Start of the program Bug2_Garden.py --- 
+OP66798c29 LOGS: Wheels , -251 , 251
+OP66798c42  --- Start of the program Bug2_Garden.py --- 
+OP66798c42 LOGS: Wheels , 251 , 251
+OP66798c43 LOGS: Wheels , -251 , 251
+OP66798c44 LOGS: Wheels , 251 , 251
+OP66798c45 LOGS: Acc , 4 , -2 , 14
