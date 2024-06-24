@@ -3,7 +3,7 @@ def buttons(): # The block of code below will be executed each time a button is 
     global motor_left_target, motor_right_target 	#Write this to modify global variables
     if button_forward:								# Check if we press the forward button
         motor_left_target = 150 					# If so, go forward...
-        motor_right_target = 150 					#... with both wheels!
+        motor_right_target = 150 	   			#... with both wheels!
         
         
 
