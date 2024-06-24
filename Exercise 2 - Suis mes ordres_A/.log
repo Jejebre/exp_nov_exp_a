@@ -1,0 +1,30 @@
+OP66799f8d  --- Start of the program Bug2_Garden.py --- 
+OP66799f8f LOGS: forward , pressed
+OP66799f8f LOGS: Wheels , 255 , 255
+OP66799f8f LOGS: forward , released
+OP66799f91 LOGS: left , pressed
+OP66799f91 LOGS: Wheels , -100 , 100
+OP66799f91 LOGS: left , released
+OP66799f94 LOGS: forward , pressed
+OP66799f94 LOGS: Wheels , 255 , 255
+OP66799f94 LOGS: forward , released
+OP66799f94 LOGS: left , pressed
+OP66799f94 LOGS: Wheels , -100 , 100
+OP66799f97 LOGS: forward , pressed
+OP66799f97 LOGS: Wheels , 255 , 255
+OP66799f97 LOGS: forward , released
+OP66799f99 LOGS: right , pressed
+OP66799f99 LOGS: Wheels , 100 , -100
+OP66799f99 LOGS: right , released
+OP66799f9b LOGS: forward , pressed
+OP66799f9b LOGS: Wheels , 255 , 255
+OP66799f9c LOGS: left , pressed
+OP66799f9c LOGS: Wheels , -100 , 100
+OP66799f9d LOGS: left , released
+OP66799f9f LOGS: backward , pressed
+OP66799f9f LOGS: Wheels , -255 , -255
+OP66799f9f LOGS: backward , released
+OP66799fa1 LOGS: center , pressed
+OP66799fa1 LOGS: Wheels , 0 , 0
+OP66799fa2 LOGS: center , released
+OP66799fa3 LOGS: Acc , 4 , 5 , 24
