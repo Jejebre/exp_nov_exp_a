@@ -247,3 +247,13 @@ OP6679a1ef LOGS: Wheels , 0 , 0
 OP6679a1ef LOGS: center , released
 WO6679a1fc 
 WI6679a203 
+OP6679a281  --- Start of the program Bug2_Garden.py --- 
+OP6679a281 LOGS: Wheels , 251 , 251
+OP6679a283 LOGS: Wheels , -251 , 251
+OP6679a283 LOGS: Wheels , 251 , 251
+OP6679a284 LOGS: Wheels , -251 , 251
+OP6679a284 LOGS: Wheels , 251 , 251
+OP6679a284 LOGS: Wheels , -251 , 251
+OP6679a284 LOGS: Wheels , 251 , 251
+OP6679a285 LOGS: Wheels , -251 , 251
+OP6679a286 LOGS: Wheels , -251 , 251
