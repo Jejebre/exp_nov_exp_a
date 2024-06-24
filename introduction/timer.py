@@ -1,7 +1,7 @@
 timer_period[0] = 500 # set the timer's period to 500 ms
 nf_leds_top (32,0,0)  # and we set the color of the leds to red (R=32, G=0, B=0)
 color_is_red = True   # we will use this variable to track the state of the LEDS
-
+rr
 @onevent
 def timer0():
 # each time the timer triggers
