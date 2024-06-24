@@ -2,3 +2,14 @@ WO66793260
 WI66793272 
 OP66794103 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
 OP66794134 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP667941f1  --- Start of the program Bug2_Garden.py --- 
+OP667941f1 LOGS: Wheels , 251 , 251
+OP667941f1 LOGS: Wheels , -251 , -251
+OP667941f5 LOGS: right , pressed
+OP667941f5 LOGS: Acc , -5 , -5 , 15
+OP667941f5 LOGS: right , released
+OP667941f5 LOGS: right , pressed
+OP667941f5 LOGS: backward , pressed
+OP667941f5 LOGS: forward , pressed
+OP667941f5 LOGS: backward , released
+OP667941f6 LOGS: right , released
