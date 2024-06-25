@@ -5,3 +5,17 @@ OP667ad2a8 LOGS: forward , released
 OP667ad2d8 Error: unknown variable 'button_down'
 OP667ad2d8     
 OP667ad2d8 Line 20
+OP667ad2fc  --- Start of the program Bug2_Garden.py --- 
+OP667ad2fc LOGS: forward , pressed
+OP667ad2fc LOGS: Wheels , 0 , 255
+OP667ad2fc LOGS: forward , released
+OP667ad2fd LOGS: Acc , 0 , 0 , 24
+OP667ad2fe LOGS: Acc , 0 , 0 , 25
+OP667ad300 LOGS: Acc , 0 , -1 , 24
+OP667ad323  --- Start of the program Bug2_Garden.py --- 
+OP667ad324 LOGS: forward , pressed
+OP667ad324 LOGS: Wheels , 255 , 255
+OP667ad324 LOGS: forward , released
+OP667ad327 LOGS: left , pressed
+OP667ad327 LOGS: Wheels , -100 , 100
+OP667ad327 LOGS: left , released
