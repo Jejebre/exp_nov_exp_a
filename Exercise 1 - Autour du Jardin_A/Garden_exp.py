@@ -1,4 +1,4 @@
-time_A = 2500
+time_A = 2800
 time_B = 1100
 timer_period[0] = 100
 going_forward = False
