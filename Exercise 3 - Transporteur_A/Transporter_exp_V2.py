@@ -23,14 +23,14 @@ def prox():
     
     elif mode == WALLS:
         nf_leds_top(32, 0, 0)  # Red
-        if prox_horizontal[2] > 3500:
+        if prox_horizontal[2] > 4300:
             motor_left_target = -51
             motor_left_target = -51
             mode = GOBACK
 
     elif mode == GOBACK:
         print("JE PASSE EN GOBACK")
-        if prox_ground_delta[0] < 200 and prox_ground_delta[1] < 200:
+        if prox_ground_delta[0] < 200 or prox_ground_delta[1] < 200:
             mode = LINE
             timer_period[0] = 1950 #turn during 1950ms            
             motor_left_target = -251
