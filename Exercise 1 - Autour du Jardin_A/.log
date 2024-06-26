@@ -7,3 +7,17 @@ OP667c00da LOGS: forward , pressed
 OP667c00db LOGS: Acc , 0 , -12 , 17
 OP667c0124  --- Start of the program Bug2_Garden.py --- 
 OP667c0124 LOGS: Wheels , 250 , 250
+OP667c0127 LOGS: Wheels , -250 , 250
+OP667c0128 LOGS: Wheels , 250 , 250
+OP667c012a LOGS: Wheels , -250 , 250
+OP667c012b LOGS: Wheels , 250 , 250
+OP667c012e LOGS: Wheels , -250 , 250
+OP667c0131 LOGS: Wheels , -250 , 250
+OP667c0155  --- Start of the program Bug2_Garden.py --- 
+OP667c0155 LOGS: Wheels , 250 , 250
+OP667c0157 LOGS: Wheels , -250 , 250
+OP667c0158 LOGS: Wheels , 250 , 250
+OP667c015b LOGS: Wheels , -250 , 250
+OP667c015c LOGS: Wheels , 250 , 250
+OP667c015e LOGS: Wheels , -250 , 250
+OP667c015f LOGS: Wheels , 250 , 250
