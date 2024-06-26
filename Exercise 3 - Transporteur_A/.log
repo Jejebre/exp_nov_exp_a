@@ -50,3 +50,20 @@ OP667c0552 LOGS: Wheels , 251 , 251
 OP667c0644  --- Start of the program Bug2_Garden.py --- 
 OP667c0644 LOGS: Wheels , 251 , 251
 OP667c0645 LOGS: Acc , -4 , 0 , 27
+OP667c0652  --- Start of the program Bug2_Garden.py --- 
+OP667c0652 LOGS: Wheels , 251 , 251
+OP667c0656  --- Start of the program Bug2_Garden.py --- 
+OP667c0656 LOGS: Wheels , 251 , 251
+OP667c0679  --- Start of the program Bug2_Garden.py --- 
+OP667c0679 LOGS: Wheels , 251 , 251
+OP667c067b LOGS: Wheels , -251 , 251
+OP667c067b LOGS: Wheels , 251 , 251
+OP667c067b LOGS: Wheels , 251 , 251
+OP667c067c LOGS: Wheels , -251 , 251
+OP667c067c LOGS: Wheels , 251 , 251
+OP667c067c LOGS: Wheels , -251 , 251
+OP667c067d LOGS: Wheels , 251 , 251
+OP667c067e LOGS: Acc , 1 , -8 , 13
+OP667c067e LOGS: left , pressed
+OP667c067e LOGS: left , released
+OP667c067f LOGS: Acc , 5 , -8 , 20

@@ -8,7 +8,7 @@ back = 6
 def prox():
     global prox_horizontal, motor_left_target, motor_right_target
         
-    if prox_horizontal[front] > 4000:
+    if prox_horizontal[front] > 2000:
         nf_leds_top(0,32,0) # Green
         motor_left_target = -251 
         motor_right_target = 251
