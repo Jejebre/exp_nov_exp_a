@@ -1,0 +1,7 @@
+OP667c00d5  --- Start of the program Bug2_Garden.py --- 
+OP667c00d5 LOGS: Wheels , 250 , 250
+OP667c00d8 LOGS: Wheels , 250 , -250
+OP667c00d9 LOGS: Wheels , 250 , 250
+OP667c00da LOGS: Acc , 1 , -13 , 15
+OP667c00da LOGS: forward , pressed
+OP667c00db LOGS: Acc , 0 , -12 , 17
