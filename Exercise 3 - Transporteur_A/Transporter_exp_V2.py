@@ -30,7 +30,7 @@ def prox():
 
     elif mode == GOBACK:
         print("JE PASSE EN GOBACK")
-        if prox_ground_delta[0] < 800 and prox_ground_delta[1] < 800:
+        if prox_ground_delta[0] < 200 and prox_ground_delta[1] < 200:
             mode = LINE
             timer_period[0] = 1950 #turn during 1950ms            
             motor_left_target = -251
@@ -38,7 +38,7 @@ def prox():
         else:
             print("ICI")
             motor_left_target = -51
-            motor_left_target = -51
+            motor_right_target = -51
 
 
 @onevent
