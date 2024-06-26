@@ -51,3 +51,16 @@ OP667c1d45  --- Start of the program Bug2_Garden.py ---
 OP667c1d48 LOGS: Acc , 4 , -1 , 12
 OP667c1d52  --- Start of the program Bug2_Garden.py --- 
 OP667c1d52 LOGS: Wheels , 251 , 251
+OP667c1d64  --- Start of the program Bug2_Garden.py --- 
+OP667c1d64 LOGS: Wheels , 251 , 251
+OP667c1d64 LOGS: Wheels , -251 , 251
+OP667c1d7b  --- Start of the program Bug2_Garden.py --- 
+OP667c1d7b LOGS: Wheels , 251 , 251
+OP667c1d7c LOGS: Acc , 4 , 0 , 15
+OP667c1d7e LOGS: Wheels , 251 , 251
+OP667c1d7e LOGS: Wheels , -251 , 251
+OP667c1d7e LOGS: Wheels , 251 , 251
+OP667c1d7e LOGS: Wheels , -251 , 251
+OP667c1d7e LOGS: Wheels , 251 , 251
+OP667c1d80 LOGS: Wheels , -251 , 251
+OP667c1d80 LOGS: Acc , -1 , 8 , 22
