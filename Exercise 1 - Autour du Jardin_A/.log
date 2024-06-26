@@ -9,3 +9,15 @@ OP667c3bbe LOGS: Acc , 0 , -7 , 11
 OP667c3bbe LOGS: backward , pressed
 OP667c3bbe LOGS: center , pressed
 OP667c3bbf LOGS: Acc , 3 , -9 , 16
+OP667c3bd7  --- Start of the program Bug2_Garden.py --- 
+OP667c3bd7 LOGS: Wheels , 250 , 250
+OP667c3bee  --- Start of the program Bug2_Garden.py --- 
+OP667c3bee LOGS: Wheels , 250 , 250
+OP667c3bf1 LOGS: Wheels , -200 , 200
+OP667c3bf2 LOGS: Wheels , 250 , 250
+OP667c3bf4 LOGS: Acc , -4 , -2 , 25
+OP667c3bf4 LOGS: Wheels , -200 , 200
+OP667c3bf6 LOGS: Wheels , 250 , 250
+OP667c3bf8 LOGS: Wheels , -200 , 200
+OP667c3bf9 LOGS: Wheels , 250 , 250
+OP667c3bfc LOGS: Wheels , -200 , 200
