@@ -24,8 +24,8 @@ def prox():
     elif mode == WALLS:
         nf_leds_top(32, 0, 0)  # Red
         if prox_horizontal[2] > 3500:
-            motor_left_target = -251
-            motor_left_target = -251
+            motor_left_target = -51
+            motor_left_target = -51
             mode = GOBACK
 
     elif mode == GOBACK:
@@ -35,6 +35,9 @@ def prox():
             timer_period[0] = 1950 #turn during 1950ms            
             motor_left_target = -251
             motor_right_target = 251
+        else:
+            motor_left_target = -51
+            motor_left_target = -51
 
 
 @onevent
