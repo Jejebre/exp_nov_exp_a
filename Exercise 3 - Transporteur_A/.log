@@ -4,3 +4,12 @@ OP667c1b6e LOGS: Acc , 1 , -16 , 25
 OP667c1b82 LOGS: right , pressed
 OP667c1b82 LOGS: Wheels , 100 , -100
 OP667c1b82 LOGS: right , released
+OP667c1bdf  --- Start of the program Bug2_Garden.py --- 
+OP667c1bdf LOGS: Wheels , 251 , 251
+OP667c1bdf LOGS: Wheels , -251 , -251
+OP667c1bf9 Compilation error: Access of array prox.horizontal out of bounds: accessing index 7 while array is of size 7
+OP667c1c0b  --- Start of the program Bug2_Garden.py --- 
+OP667c1c0b LOGS: Wheels , 251 , 251
+OP667c1c0b LOGS: Wheels , -251 , -251
+UD667c1c0e 
+UD667c1c0e 
