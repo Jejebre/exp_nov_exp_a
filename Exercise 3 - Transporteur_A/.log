@@ -147,3 +147,17 @@ OP66840abd LOGS: Wheels , -251 , 251
 OP66840ad9  --- Start of the program Bug_TheTransporter.py --- 
 OP66840adc  --- Start of the program Bug_TheTransporter.py --- 
 OP66840ade LOGS: Acc , 0 , -4 , 26
+OP66840ae1  --- Start of the program Bug_TheTransporter.py --- 
+OP66840ae2  --- Start of the program Bug_TheTransporter.py --- 
+OP66840ae3 LOGS: Acc , 0 , 3 , 24
+OP66840ae5  --- Start of the program Bug_TheTransporter.py --- 
+OP66840aed LOGS: Wheels , 251 , 251
+OP66840aed LOGS: Wheels , -251 , -251
+OP66840aef LOGS: Wheels , -251 , 251
+OP66840af0 LOGS: Acc , 5 , 2 , 19
+OP66840af8  --- Start of the program Bug_TheTransporter.py --- 
+OP66840af8 LOGS: Wheels , 251 , 251
+OP66840afa LOGS: Wheels , -251 , -251
+OP66840afa LOGS: backward , pressed
+OP66840b01  --- Start of the program Bug_TheTransporter.py --- 
+OP66840b03 LOGS: Wheels , -251 , -251
