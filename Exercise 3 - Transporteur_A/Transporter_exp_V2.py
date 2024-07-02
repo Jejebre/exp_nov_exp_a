@@ -36,7 +36,7 @@ def timer0():
     if mode == LINE:
         motor_left_target = 251 
         motor_right_target = 251
-        nf_leds_top(32, 32, 0) # Orange
+        nf_leds_top(0, 0, 32) # Orange
         mode = NORMAL
         
 @onevent
