@@ -40,3 +40,18 @@ OP6683ca96 LOGS: Wheels , 0 , 255
 OP6683ca96 LOGS: forward , released
 OP6683ca97 LOGS: Wheels , 0 , 0
 OP6683ca97 LOGS: center , released
+OP6683cab1  --- Start of the program Bug2_Garden.py --- 
+OP6683cab3  --- Start of the program Bug2_Garden.py --- 
+OP6683cab4 LOGS: forward , pressed
+OP6683cab4 LOGS: Wheels , 0 , 255
+OP6683cab4 LOGS: forward , released
+OP6683cab4 LOGS: Acc , 0 , -1 , 24
+OP6683cab6 LOGS: Acc , 0 , -1 , 24
+OP6683cac2  --- Start of the program Bug2_Garden.py --- 
+OP6683cac2 LOGS: forward , pressed
+OP6683cac2 LOGS: Wheels , 0 , 255
+OP6683cac2 LOGS: forward , released
+OP6683cac3 LOGS: Acc , 0 , -2 , 16
+OP6683cac3 LOGS: center , pressed
+OP6683cac3 LOGS: Wheels , 0 , 0
+OP6683cac3 LOGS: center , released
