@@ -11,7 +11,7 @@ timer_period[0] = 1
 @onevent
 def prox():
     global mode, motor_left_target, motor_right_target
-    print(")
+    
     if mode == NORMAL:
         nf_leds_top(0, 32, 0)  # Green
         
@@ -23,7 +23,6 @@ def prox():
     
     elif mode == WALLS:
         nf_leds_top(32, 0, 0)  # Red
-        print(prox_ground_delta[0])
         if prox_ground_delta[0] < 800 and prox_ground_delta[1] < 800:
             
             mode = LINE
