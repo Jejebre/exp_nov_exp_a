@@ -73,3 +73,27 @@ CT6683ef99
 CT6683ef99 
 PS6683efa0 
 PS6683efa0 
+OP6683efbe  --- Start of the program Bug_TheTransporter.py --- 
+OP6683efbf LOGS: Wheels , 251 , 251
+OP6683efbf LOGS: right , pressed
+OP6683efbf LOGS: left , pressed
+OP6683efbf LOGS: Acc , 5 , 0 , 18
+OP6683efbf LOGS: right , released
+OP6683efbf LOGS: Wheels , -251 , -251
+OP6683efbf LOGS: right , pressed
+OP6683efc6  --- Start of the program Bug_TheTransporter.py --- 
+OP6683efc6 LOGS: Wheels , 251 , 251
+OP6683efc9 LOGS: Wheels , -251 , 251
+OP6683efcb LOGS: Wheels , 251 , 251
+OP6683efcc LOGS: Wheels , -251 , -251
+OP6683efcd LOGS: Wheels , -251 , 251
+OP6683efcf LOGS: Wheels , 251 , 251
+OP6683efd0 LOGS: Wheels , -251 , -251
+OP6683efd1 LOGS: Wheels , -251 , 251
+OP6683efd2 LOGS: Wheels , 251 , 251
+OP6683efd4 LOGS: Wheels , -251 , -251
+OP6683efd6 LOGS: Wheels , 251 , 251
+OP6683efd8 LOGS: Wheels , -251 , -251
+OP6683efd8 LOGS: Wheels , -251 , 251
+OP6683efdc LOGS: Wheels , -251 , -251
+OP6683efdc LOGS: Wheels , -251 , 251
