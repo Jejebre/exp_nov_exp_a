@@ -55,3 +55,18 @@ OP6683cac3 LOGS: Acc , 0 , -2 , 16
 OP6683cac3 LOGS: center , pressed
 OP6683cac3 LOGS: Wheels , 0 , 0
 OP6683cac3 LOGS: center , released
+OP6683cafa  --- Start of the program Bug2_Garden.py --- 
+OP6683cafb LOGS: Acc , 0 , 2 , 28
+OP6683cafe LOGS: forward , pressed
+OP6683cafe LOGS: Wheels , 0 , 255
+OP6683cafe LOGS: forward , released
+OP6683caff  --- Start of the program Bug2_Garden.py --- 
+OP6683caff LOGS: forward , pressed
+OP6683caff LOGS: Wheels , 0 , 255
+OP6683caff LOGS: forward , released
+OP6683cb01 LOGS: Acc , 0 , 0 , 24
+OP6683cb17 Error: unterminated string literal (detected at line 9)
+OP6683cb17     
+OP6683cb17 Line 9
+OP6683cb1d  --- Start of the program Bug2_Garden.py --- 
+OP6683cb20  --- Start of the program Bug2_Garden.py --- 

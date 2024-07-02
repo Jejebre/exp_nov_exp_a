@@ -6,6 +6,7 @@ def buttons():
         nf_leds_top(0,32,0)
         motor_left_target == 255
         motor_right_target = 255
+        print("moving forward")
         
     if button_left:
         nf_leds_top(32,16,0)
