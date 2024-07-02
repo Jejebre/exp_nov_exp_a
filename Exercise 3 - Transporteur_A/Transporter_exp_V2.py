@@ -35,7 +35,7 @@ def timer0():
     # Check if the current mode is LINE to switch back to NORMAL
     if mode == LINE:
         motor_left_target = 251 
-        motor_right_target = 251
+        motor_right_target = -251
         nf_leds_top(0, 0, 32) # Orange
         mode = NORMAL
         
