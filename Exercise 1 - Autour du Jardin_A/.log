@@ -9,3 +9,17 @@ OP668404f1 LOGS: center , released
 OP668404f1 LOGS: right , released
 OP668404f2 LOGS: forward , released
 OP668404f3 LOGS: Wheels , 200 , -200
+OP6684050e  --- Start of the program Bug2_Garden.py --- 
+OP66840511 LOGS: Wheels , 200 , -200
+OP66840512 LOGS: Wheels , 250 , 250
+OP66840514 LOGS: Wheels , 200 , -200
+OP66840516 LOGS: Wheels , 250 , 250
+OP66840517  --- Start of the program Bug2_Garden.py --- 
+OP66840517 LOGS: Wheels , 250 , 250
+OP66840519  --- Start of the program Bug2_Garden.py --- 
+OP66840519 LOGS: Acc , 0 , 0 , 24
+OP66840519 LOGS: Wheels , 250 , 250
+OP66840519 LOGS: Acc , -7 , 5 , 14
+OP6684051a LOGS: Acc , -10 , 15 , 12
+OP66840539 LOGS: Wheels , 250 , 250
+OP6684053b LOGS: Wheels , -200 , 200
