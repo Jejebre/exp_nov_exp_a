@@ -155,3 +155,12 @@ OP66840725 LOGS: center , pressed
 OP66840725 LOGS: Wheels , 0 , 0
 OP66840725 LOGS: center , released
 OP66840727 LOGS: Acc , 3 , 0 , 25
+OP66840739 LOGS: Acc , -3 , 2 , 25
+OP6684073a LOGS: backward , pressed
+OP6684073a LOGS: Wheels , -255 , -255
+OP6684073a LOGS: backward , released
+OP6684073a LOGS: Acc , -7 , 0 , 18
+OP6684073a LOGS: center , pressed
+OP6684073a LOGS: Wheels , 0 , 0
+OP6684073b LOGS: center , released
+OP6684073b LOGS: Acc , -5 , 4 , 15
