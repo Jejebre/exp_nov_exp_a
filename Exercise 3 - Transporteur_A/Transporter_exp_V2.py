@@ -26,7 +26,7 @@ def prox():
         motor_right_target = -251
         if prox_ground_delta[0] < 800 or prox_ground_delta[1] < 800:
             mode = LINE
-            timer_period[0] = 1950 #turn during 1950ms
+            
             print("backward")
             
 
@@ -35,8 +35,10 @@ def timer0():
     global mode, motor_left_target, motor_right_target
     # Check if the current mode is LINE to switch back to NORMAL
     if mode == LINE:
-        motor_left_target = 251 
+        timer_period[0] = 1950 #turn during 1950ms
+        motor_left_target = -251
         motor_right_target = 251
+        
         nf_leds_top(32, 32, 0) # Orange
         mode = NORMAL
         
