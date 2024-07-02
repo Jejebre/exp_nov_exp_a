@@ -1,0 +1,21 @@
+OP66840629  --- Start of the program Bug2_Garden.py --- 
+OP6684062b LOGS: forward , pressed
+OP6684062b LOGS: Wheels , -255 , -255
+OP6684062b LOGS: forward , released
+OP6684062c LOGS: backward , pressed
+OP6684062c LOGS: backward , released
+OP6684062d LOGS: Acc , -2 , -7 , 16
+OP6684062e LOGS: center , pressed
+OP6684062e LOGS: center , released
+OP66840630 LOGS: backward , pressed
+OP66840631 LOGS: backward , released
+OP66840631 LOGS: right , pressed
+OP66840632 LOGS: right , released
+OP66840633 LOGS: left , pressed
+OP66840633 LOGS: left , released
+OP66840634 LOGS: backward , pressed
+OP66840634 LOGS: backward , released
+OP66840635 LOGS: center , pressed
+OP66840635 LOGS: center , released
+OP66840636 LOGS: backward , pressed
+OP66840636 LOGS: backward , released
