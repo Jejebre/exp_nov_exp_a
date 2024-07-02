@@ -2,3 +2,16 @@ OP6683e788 Python 3.10.11 (/Applications/Thonny.app/Contents/Frameworks/Python.f
 OP6683e788 >>> 
 WO6683e78c 
 WI6683e791 
+OP6683ee05 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
+OP6683ee19  --- Start of the program Bug_TheTransporter.py --- 
+CP6683ee2e 
+CP6683ee2e 
+PS6683ee31 
+PS6683ee31 
+OP6683ee34  --- Start of the program Bug_TheTransporter.py --- 
+OP6683ee34 LOGS: Wheels , 0 , 251
+OP6683ee34 LOGS: Acc , 0 , -1 , 25
+OP6683ee37 LOGS: Wheels , -251 , -251
+OP6683ee37  --- Start of the program Bug_TheTransporter.py --- 
+OP6683ee37 LOGS: Wheels , 0 , 251
+OP6683ee38 LOGS: Wheels , -251 , -251
