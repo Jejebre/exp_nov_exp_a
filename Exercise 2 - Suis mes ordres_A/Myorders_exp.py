@@ -12,16 +12,20 @@ def buttons():
         nf_leds_top(32,16,0)
         motor_left_target = -100
         motor_right_target = 100
+        print("moving left")
         
     if button_right:
         nf_leds_top(32,16,0)
         motor_left_target = 100
         motor_right_target = -100
+        print("moving right")
+        
         
     if button_backward:
         nf_leds_top(32,0,0)
         motor_left_target = -255
         motor_right_target = -255
+        print("moving backward")
         
     if button_center:
         nf_leds_top(0,0,0)

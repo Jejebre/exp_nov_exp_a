@@ -70,3 +70,27 @@ OP6683cb17
 OP6683cb17 Line 9
 OP6683cb1d  --- Start of the program Bug2_Garden.py --- 
 OP6683cb20  --- Start of the program Bug2_Garden.py --- 
+OP6683cb22 LOGS: forward , pressed
+OP6683cb22 moving forward
+OP6683cb22 moving forward
+OP6683cb22 LOGS: Wheels , 0 , 255
+OP6683cb22 moving forward
+OP6683cb22 moving forward
+OP6683cb22 LOGS: forward , released
+OP6683cb22 LOGS: Acc , 0 , 0 , 24
+OP6683cb25 LOGS: Acc , -1 , -1 , 24
+OP6683cb27 LOGS: Acc , 0 , 0 , 24
+OP6683cb2b LOGS: Acc , 0 , 0 , 24
+OP6683cb5b  --- Start of the program Bug2_Garden.py --- 
+OP6683cb5b LOGS: Acc , 0 , -5 , 24
+OP6683cb5c LOGS: forward , pressed
+OP6683cb5c moving forward
+OP6683cb5c moving forward
+OP6683cb5c moving forward
+OP6683cb5c moving forward
+OP6683cb5c moving forward
+OP6683cb5c moving forward
+OP6683cb5c moving forward
+OP6683cb5c moving forward
+OP6683cb5c LOGS: forward , released
+OP6683cb5d LOGS: Acc , 0 , -1 , 16
