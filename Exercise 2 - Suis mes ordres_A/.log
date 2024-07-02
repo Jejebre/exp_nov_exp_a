@@ -78,3 +78,35 @@ OP66840691 LOGS: left , released
 OP66840692 LOGS: center , pressed
 OP66840692 LOGS: Wheels , 0 , 0
 OP66840692 LOGS: center , released
+OP668406bb  --- Start of the program Bug2_Garden.py --- 
+OP668406bf LOGS: center , pressed
+OP668406bf LOGS: center , released
+OP668406c0 LOGS: forward , pressed
+OP668406c0 LOGS: forward , released
+OP668406c0 LOGS: center , pressed
+OP668406c0 LOGS: Wheels , 0 , 0
+OP668406c0 LOGS: center , released
+OP668406c1 LOGS: backward , pressed
+OP668406c2 LOGS: backward , released
+OP668406c2 LOGS: center , pressed
+OP668406c2 LOGS: center , released
+OP668406c3 LOGS: forward , pressed
+OP668406c3 LOGS: Wheels , -255 , -255
+OP668406c3 LOGS: forward , released
+OP668406c4 LOGS: center , pressed
+OP668406c4 LOGS: Wheels , 0 , 0
+OP668406c4 LOGS: center , released
+OP668406c4 LOGS: Acc , 1 , 2 , 27
+OP668406c6 LOGS: forward , pressed
+OP668406c6 LOGS: forward , released
+OP668406c6 LOGS: Wheels , -255 , -255
+OP668406c7 LOGS: center , pressed
+OP668406c7 LOGS: Wheels , 0 , 0
+OP668406c7 LOGS: center , released
+OP668406e1  --- Start of the program Bug2_Garden.py --- 
+OP668406e4 LOGS: forward , pressed
+OP668406e4 LOGS: forward , released
+OP668406e5 LOGS: center , pressed
+OP668406e5 LOGS: Wheels , 0 , 0
+OP668406e5 LOGS: center , released
+OP668406ea LOGS: Acc , 0 , 2 , 26
