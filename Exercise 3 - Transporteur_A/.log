@@ -15,3 +15,30 @@ OP6683ee37 LOGS: Wheels , -251 , -251
 OP6683ee37  --- Start of the program Bug_TheTransporter.py --- 
 OP6683ee37 LOGS: Wheels , 0 , 251
 OP6683ee38 LOGS: Wheels , -251 , -251
+OP6683ee40  --- Start of the program Bug_TheTransporter.py --- 
+OP6683ee40 LOGS: Wheels , 251 , 251
+OP6683ee41 LOGS: Wheels , -251 , -251
+OP6683ee45 LOGS: center , pressed
+OP6683ee45 LOGS: Wheels , 0 , 0
+OP6683ee45 LOGS: center , released
+OP6683ee52  --- Start of the program Bug_TheTransporter.py --- 
+OP6683ee52 LOGS: Wheels , 251 , 251
+OP6683ee53 LOGS: Wheels , -251 , -251
+OP6683ee54 LOGS: Wheels , -251 , 251
+OP6683ee56 LOGS: Wheels , 251 , 251
+OP6683ee57 LOGS: Wheels , -251 , -251
+OP6683ee57 LOGS: Wheels , -251 , 251
+OP6683ee58 LOGS: Wheels , 251 , 251
+OP6683ee58 LOGS: Wheels , -251 , -251
+OP6683ee59 LOGS: Wheels , -251 , 251
+OP6683ee5a LOGS: Wheels , 251 , 251
+OP6683ee61  --- Start of the program Bug_TheTransporter.py --- 
+OP6683ee62 LOGS: Wheels , 251 , 251
+OP6683ee64 LOGS: Wheels , -251 , -251
+OP6683ee64 LOGS: Wheels , -251 , 251
+OP6683ee66 LOGS: Wheels , 251 , 251
+OP6683ee67 LOGS: backward , pressed
+OP6683ee7a  --- Start of the program Bug_TheTransporter.py --- 
+OP6683ee7a LOGS: Wheels , 251 , 251
+OP6683ee7d LOGS: Wheels , -251 , -251
+OP6683ee7d LOGS: Wheels , -251 , 251
