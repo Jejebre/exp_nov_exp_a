@@ -14,7 +14,10 @@ def prox():
     if mode == NORMAL:
         nf_leds_top(0, 32, 0)  # Green
         
-        if prox_ho
+        if prox_horizontal[2] > 3000:
+            mode = WALLS
+            motor_left_target = -251
+            motor_right_tarfet = -251
 #         if prox_horizontal[2] < 2500 or prox_horizontal[1] > 2500:
 #             mode = WALLS
 #             motor_left_target = -251 
