@@ -17,3 +17,8 @@ OP66852573 LOGS: forward , pressed
 OP66852573 LOGS: Wheels , -255 , -255
 OP66852573 LOGS: forward , released
 OP66852575  --- Start of the program Bug2_Garden.py --- 
+OP668525a5  --- Start of the program Bug2_Garden.py --- 
+OP668525ab  --- Start of the program Bug2_Garden.py --- 
+OP668525ad LOGS: forward , pressed
+OP668525ad LOGS: Wheels , 0 , 255
+OP668525ad LOGS: forward , released
