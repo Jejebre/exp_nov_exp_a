@@ -3,3 +3,20 @@ OP66857c50  --- Start of the program Bug_TheTransporter.py ---
 OP66857c81  --- Start of the program Bug_TheTransporter.py --- 
 OP66857c83 LOGS: Wheels , -251 , 251
 OP66857c85 LOGS: Wheels , 251 , 251
+OP66857ca3  --- Start of the program Bug_TheTransporter.py --- 
+OP66857ca5 LOGS: Wheels , -251 , 251
+OP66857ca8 LOGS: Wheels , 251 , 251
+OP66857cd9 %cd '/Users/jerome/Downloads/exp_nov_exp_a/Exercise 3 - Transporteur_A'
+OP66857cd9 %Run Transporter_exp_V2.py
+OP66857cd9 >>> 
+OP66857cd9 Traceback (most recent call last):
+OP66857cd9   
+OP66857cd9 File "/Users/jerome/Downloads/exp_nov_exp_a/Exercise 3 - Transporteur_A/Transporter_exp_V2.py", line 10, in <module>
+OP66857cd9     @onevent
+OP66857cd9 NameError: name 'onevent' is not defined
+OP66857cd9 >>> 
+RN66857cd9 
+OP66857cdc  --- Start of the program Bug_TheTransporter.py --- 
+OP66857cdc LOGS: Wheels , 251 , 251
+OP66857cde LOGS: Wheels , -251 , 251
+OP66857ce1 LOGS: Wheels , 251 , 251

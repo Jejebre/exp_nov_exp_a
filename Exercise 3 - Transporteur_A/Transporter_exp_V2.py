@@ -15,6 +15,7 @@ def prox():
         nf_leds_top(0, 32, 0)  # Green
         
         if prox_horizontal[2] > 4000:
+            nf_leds_top(0,0,32)
             mode = WALLS
             motor_left_target = -251
             motor_right_tarfet = -251
