@@ -17,8 +17,8 @@ def prox():
         if prox_horizontal[2] > 4000:
             mode = WALLS
             nf_leds_top(0, 0, 32)
-            motor_left_target = -251
-            motor_right_tarfet = -251
+            motor_left_target = -200
+            motor_right_tarfet = -200
         else:
             motor_left_target=251
             motor_right_target=251
@@ -31,9 +31,9 @@ def prox():
     elif mode == WALLS:
         nf_leds_top(32, 0, 0)  # Red
         
-        if prox_ground_delta[0] < 550 or prox_ground_delta[1] < 550:
+        if prox_ground_delta[0] < 500 or prox_ground_delta[1] < 500:
             mode = LINE
-            timer_period[0] = 1950 #turn during 1950ms            
+            timer_period[0] = 950 #turn during 1950ms            
             motor_left_target = -251
             motor_right_target = 251
 
