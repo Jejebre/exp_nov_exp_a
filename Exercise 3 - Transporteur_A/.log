@@ -71,3 +71,21 @@ OP66857e08 LOGS: center , released
 OP66857e08 LOGS: Wheels , 0 , 0
 OP66857e08 LOGS: Acc , -2 , 0 , 24
 OP66857e09 LOGS: Acc , -18 , 6 , 5
+OP66857e1c  --- Start of the program Bug_TheTransporter.py --- 
+OP66857e1c LOGS: Wheels , 251 , 251
+OP66857e1e LOGS: Wheels , -200 , -200
+OP66857e1f LOGS: Wheels , -251 , 251
+OP66857e21 LOGS: Wheels , 251 , 251
+OP66857e22 LOGS: Wheels , -200 , -200
+OP66857e23 LOGS: Wheels , -251 , 251
+OP66857e25 LOGS: Wheels , 251 , 251
+OP66857e26 LOGS: Wheels , -200 , -200
+OP66857e27 LOGS: Wheels , -251 , 251
+OP66857e29 LOGS: Wheels , 251 , 251
+OP66857e2a LOGS: Wheels , -200 , -200
+OP66857e2b LOGS: Wheels , -200 , -200
+OP66857e2b LOGS: Wheels , -251 , 251
+OP66857e2d LOGS: Wheels , 251 , 251
+OP66857e2e LOGS: center , pressed
+OP66857e2e LOGS: Wheels , 0 , 0
+OP66857e2e LOGS: center , released
