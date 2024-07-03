@@ -15,11 +15,6 @@ def prox():
         motor_left_target = 0
         motor_right_target = 0
         
-    else : 
-        nf_leds_top(32,0,0) # Red
-        motor_left_target = 250
-        motor_right_target = 250
-        
     if prox_horizontal[5] > 4000:
         nf_leds_top(0,32,0) # Green
         motor_left_target = 0
@@ -29,6 +24,10 @@ def prox():
         nf_leds_top(32,0,0) # Red
         motor_left_target = 250
         motor_right_target = 250
+        
+
+        
+   
 
 
 
