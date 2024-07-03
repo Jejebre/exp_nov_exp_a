@@ -1,1 +1,19 @@
 WI66852536 
+OP66852546  --- Start of the program Bug2_Garden.py --- 
+OP66852547 LOGS: forward , pressed
+OP66852547 LOGS: Wheels , -255 , -255
+OP66852547 LOGS: forward , released
+OP66852548 LOGS: right , pressed
+OP66852548 LOGS: Wheels , 100 , -100
+OP66852549 LOGS: forward , pressed
+OP66852549 LOGS: Wheels , -255 , -255
+OP6685255a  --- Start of the program Bug2_Garden.py --- 
+OP6685255b LOGS: forward , pressed
+OP6685255b LOGS: Wheels , -255 , -255
+OP6685255b LOGS: forward , released
+OP6685255c  --- Start of the program Bug2_Garden.py --- 
+OP66852572  --- Start of the program Bug2_Garden.py --- 
+OP66852573 LOGS: forward , pressed
+OP66852573 LOGS: Wheels , -255 , -255
+OP66852573 LOGS: forward , released
+OP66852575  --- Start of the program Bug2_Garden.py --- 
