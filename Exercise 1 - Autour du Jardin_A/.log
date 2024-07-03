@@ -1,0 +1,11 @@
+OP6685242c  --- Start of the program Bug2_Garden.py --- 
+OP6685242c LOGS: Wheels , 250 , 250
+OP6685242e LOGS: Wheels , 250 , -250
+OP6685242f LOGS: Wheels , 250 , 250
+OP66852430 LOGS: right , pressed
+OP6685243e  --- Start of the program Bug2_Garden.py --- 
+OP6685243e LOGS: Wheels , 250 , 250
+OP66852441 LOGS: Wheels , -250 , 250
+OP66852442 LOGS: Wheels , 250 , 250
+OP66852444 LOGS: Wheels , -250 , 250
+OP66852445 LOGS: Wheels , 250 , 250
