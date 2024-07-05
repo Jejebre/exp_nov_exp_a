@@ -1,4 +1,4 @@
-time_A = 2500
+time_A = 3000
 time_B = 1100
 timer_period[0] = 100
 going_forward = False
@@ -16,8 +16,8 @@ def timer0():
     else:
         timer_period[0] = time_B
         nf_leds_top(32,16,0) # Orange
-        motor_right_target = -200
-        motor_left_target = 200
+        motor_right_target = 200
+        motor_left_target = -200
         
 
 # ------------------------------------------------------------- #
