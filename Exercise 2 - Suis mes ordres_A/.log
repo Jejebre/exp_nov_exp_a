@@ -116,3 +116,20 @@ OP6687cde7 LOGS: Wheels , 255 , 255
 OP6687cde8 LOGS: center , pressed
 OP6687cde8 LOGS: Wheels , 0 , 0
 OP6687cde8 LOGS: center , released
+OP6687cde9 LOGS: right , pressed
+OP6687cde9 LOGS: Wheels , 100 , -100
+OP6687cde9 LOGS: right , released
+OP6687cdeb LOGS: forward , pressed
+OP6687cdeb LOGS: Wheels , 255 , 255
+OP6687cdeb LOGS: forward , released
+OP6687cdeb LOGS: center , pressed
+OP6687cdeb LOGS: Wheels , 0 , 0
+OP6687cdec LOGS: center , released
+OP6687cdec LOGS: right , pressed
+OP6687cdec LOGS: Wheels , 100 , -100
+OP6687cdec LOGS: right , released
+OP6687cdee LOGS: forward , pressed
+OP6687cdee LOGS: Wheels , 255 , 255
+OP6687cdee LOGS: forward , released
+OP6687cdf0 LOGS: center , pressed
+OP6687cdf0 LOGS: center , released
