@@ -28,7 +28,7 @@ def prox():
         
         if prox_ground_delta[0] < 800 or prox_ground_delta[1] < 800:
             mode = LINE
-            timer_period[0] = 1800 #turn during 1950ms            
+            timer_period[0] = 1950 #turn during 1950ms            
 
 
 @onevent
