@@ -5,3 +5,114 @@ OP6687cd9d LOGS: forward , released
 OP6687cd9d LOGS: forward , pressed
 OP6687cd9d LOGS: forward , released
 OP6687cd9e LOGS: Acc , -4 , 1 , 11
+OP6687cdb2  --- Start of the program Bug2_Garden.py --- 
+OP6687cdb3 LOGS: forward , pressed
+OP6687cdb3 LOGS: Wheels , 255 , 255
+OP6687cdb3 LOGS: forward , released
+OP6687cdb5 LOGS: center , released
+OP6687cdb5 LOGS: Wheels , 0 , 0
+OP6687cdb6 LOGS: forward , pressed
+OP6687cdb6 LOGS: Wheels , 255 , 255
+OP6687cdb6 LOGS: forward , released
+OP6687cdb6 LOGS: center , pressed
+OP6687cdb6 LOGS: Wheels , 0 , 0
+OP6687cdb6 LOGS: center , released
+OP6687cdbc LOGS: left , pressed
+OP6687cdbc LOGS: Wheels , -100 , 100
+OP6687cdbc LOGS: left , released
+OP6687cdbd LOGS: center , pressed
+OP6687cdbe LOGS: right , pressed
+OP6687cdbe LOGS: Wheels , 100 , -100
+OP6687cdbe LOGS: right , released
+OP6687cdbf LOGS: right , pressed
+OP6687cdc0 LOGS: center , pressed
+OP6687cdc0 LOGS: Wheels , 0 , 0
+OP6687cdc0 LOGS: center , released
+OP6687cdc1 LOGS: left , pressed
+OP6687cdc1 LOGS: left , released
+OP6687cdc1 LOGS: center , pressed
+OP6687cdc1 LOGS: Wheels , 0 , 0
+OP6687cdc1 LOGS: center , released
+OP6687cdc2 LOGS: left , pressed
+OP6687cdc2 LOGS: left , released
+OP6687cdc2 LOGS: Wheels , -100 , 100
+OP6687cdc2 LOGS: center , pressed
+OP6687cdc2 LOGS: Wheels , 0 , 0
+OP6687cdc2 LOGS: center , released
+OP6687cdc3 LOGS: backward , pressed
+OP6687cdc3 LOGS: Wheels , -255 , -255
+OP6687cdc3 LOGS: backward , released
+OP6687cdc4 LOGS: Wheels , 0 , 0
+OP6687cdc4 LOGS: center , released
+OP6687cdc5 LOGS: forward , pressed
+OP6687cdc5 LOGS: Wheels , 255 , 255
+OP6687cdc5 LOGS: forward , released
+OP6687cdc5 LOGS: center , pressed
+OP6687cdc5 LOGS: Wheels , 0 , 0
+OP6687cdc5 LOGS: center , released
+OP6687cdca LOGS: forward , pressed
+OP6687cdca LOGS: Wheels , 255 , 255
+OP6687cdca LOGS: forward , released
+OP6687cdca LOGS: center , pressed
+OP6687cdca LOGS: Wheels , 0 , 0
+OP6687cdcb LOGS: center , released
+OP6687cdcb LOGS: left , pressed
+OP6687cdcb LOGS: left , released
+OP6687cdcb LOGS: Wheels , -100 , 100
+OP6687cdcd LOGS: right , pressed
+OP6687cdcd LOGS: Wheels , 100 , -100
+OP6687cdcd LOGS: right , released
+OP6687cdcf LOGS: forward , pressed
+OP6687cdcf LOGS: Wheels , 255 , 255
+OP6687cdd0 LOGS: left , pressed
+OP6687cdd0 LOGS: Wheels , -100 , 100
+OP6687cdd0 LOGS: left , released
+OP6687cdd0 LOGS: center , pressed
+OP6687cdd0 LOGS: center , released
+OP6687cdd0 LOGS: Wheels , 0 , 0
+OP6687cdd2 LOGS: left , pressed
+OP6687cdd2 LOGS: Wheels , -100 , 100
+OP6687cdd2 LOGS: left , released
+OP6687cdd3 LOGS: center , pressed
+OP6687cdd3 LOGS: Wheels , 0 , 0
+OP6687cdd3 LOGS: center , released
+OP6687cdd4 LOGS: left , pressed
+OP6687cdd4 LOGS: Wheels , -100 , 100
+OP6687cdd5 LOGS: center , pressed
+OP6687cdd5 LOGS: center , released
+OP6687cdd5 LOGS: Wheels , 0 , 0
+OP6687cdd6 LOGS: left , pressed
+OP6687cdd6 LOGS: Wheels , -100 , 100
+OP6687cdd6 LOGS: left , released
+OP6687cdd6 LOGS: center , pressed
+OP6687cdd6 LOGS: Wheels , 0 , 0
+OP6687cdd7 LOGS: center , released
+OP6687cdd8 LOGS: right , pressed
+OP6687cdd8 LOGS: Wheels , 100 , -100
+OP6687cdd8 LOGS: right , released
+OP6687cdd9 LOGS: center , pressed
+OP6687cdd9 LOGS: center , released
+OP6687cdd9 LOGS: Wheels , 0 , 0
+OP6687cddc LOGS: Wheels , 255 , 255
+OP6687cddc LOGS: forward , released
+OP6687cddc LOGS: center , pressed
+OP6687cddd LOGS: Wheels , 0 , 0
+OP6687cddd LOGS: center , released
+OP6687cdde LOGS: left , pressed
+OP6687cdde LOGS: left , released
+OP6687cdde LOGS: Wheels , -100 , 100
+OP6687cde0 LOGS: center , pressed
+OP6687cde0 LOGS: Wheels , 0 , 0
+OP6687cde0 LOGS: center , released
+OP6687cde1 LOGS: forward , pressed
+OP6687cde1 LOGS: Wheels , 255 , 255
+OP6687cde2 LOGS: forward , released
+OP6687cde3 LOGS: center , pressed
+OP6687cde3 LOGS: center , released
+OP6687cde3 LOGS: Wheels , 0 , 0
+OP6687cde7 LOGS: forward , pressed
+OP6687cde7 LOGS: forward , released
+OP6687cde7 LOGS: Wheels , 255 , 255
+OP6687cde8 LOGS: center , pressed
+OP6687cde8 LOGS: Wheels , 0 , 0
+OP6687cde8 LOGS: center , released
