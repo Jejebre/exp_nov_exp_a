@@ -12,3 +12,18 @@ OP67376887 LOGS: center , pressed
 OP67376887 LOGS: Wheels , 0 , 0
 OP67376887 LOGS: center , released
 OP67376889 LOGS: Acc , 0 , 2 , 25
+OP673768b5  --- Start of the program Bug2_Garden.py --- 
+OP673768b5 LOGS: forward , pressed
+OP673768b5 LOGS: Wheels , -255 , -255
+OP673768b5 LOGS: forward , released
+OP673768d5  --- Start of the program Bug2_Garden.py --- 
+OP673768d6 LOGS: forward , pressed
+OP673768d6 127
+OP673768d6 127
+OP673768d6 LOGS: Wheels , -255 , -255
+OP673768d6 127
+OP673768d6 127
+OP673768d6 127
+OP673768d6 127
+OP673768d6 127
+OP673768d6 LOGS: forward , released
