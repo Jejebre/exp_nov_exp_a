@@ -1,3 +1,13 @@
 OP6737699a LOGS: Acc , -3 , 2 , 14
 OP67376a10 LOGS: Acc , 0 , -1 , 16
 OP67376a16 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
+OP67376a54  --- Start of the program Bug_TheTransporter.py --- 
+OP67376a54 LOGS: Wheels , -251 , -251
+OP67376a55 LOGS: Wheels , -251 , 251
+OP67376a57 LOGS: Wheels , 251 , 251
+OP67376a57 LOGS: Wheels , -251 , -251
+OP67376a58 LOGS: Wheels , -251 , 251
+OP67376a59 LOGS: Wheels , 251 , 251
+OP67376a59 LOGS: Wheels , -251 , -251
+OP67376a5a LOGS: Wheels , -251 , 251
+OP67376a5a LOGS: Acc , -4 , 3 , 16
