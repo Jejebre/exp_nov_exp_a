@@ -40,7 +40,7 @@ def timer0():
         motor_right_target = 251
         nf_leds_top(32, 32, 0) # Orange
         mode = NORMAL
-        timer_period[0] = 1950
+        timer_period[0] = 10
         
 @onevent
 def buttons():
