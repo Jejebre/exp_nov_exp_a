@@ -16,8 +16,8 @@ def timer0():
     else:
         timer_period[0] = time_B
         nf_leds_top(32,16,0) # Orange
-        motor_right_target = -200
-        motor_left_target = 200
+        motor_right_target = 200
+        motor_left_target = -200
         
 
 # ------------------------------------------------------------- #
