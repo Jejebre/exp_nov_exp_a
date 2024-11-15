@@ -71,3 +71,15 @@ OP67376b96 LOGS: Wheels , -251 , -251
 OP67376b97 LOGS: Wheels , -251 , 251
 OP67376b98 LOGS: Wheels , 251 , 251
 OP67376b9b LOGS: Acc , -4 , 6 , 15
+OP67376ba7  --- Start of the program Bug_TheTransporter.py --- 
+OP67376ba7 LOGS: Wheels , 251 , 251
+OP67376ba9 LOGS: Wheels , -251 , -251
+OP67376ba9 LOGS: Wheels , -251 , 251
+OP67376bab LOGS: Wheels , 251 , 251
+OP67376bad LOGS: Wheels , -251 , -251
+OP67376bae LOGS: Wheels , -251 , 251
+OP67376baf LOGS: Wheels , 251 , 251
+OP67376bb0 LOGS: center , pressed
+OP67376bb0 LOGS: Wheels , 0 , 0
+OP67376bb1 LOGS: center , released
+OP67376bca LOGS: Acc , 0 , 3 , 15
