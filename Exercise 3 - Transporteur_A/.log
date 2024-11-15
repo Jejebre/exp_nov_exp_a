@@ -140,3 +140,29 @@ OP67376d21 LOGS: Wheels , -251 , -251
 OP67376d22 LOGS: Wheels , -251 , 251
 WO67376d2f 
 WI67376d52 
+OP67376da5  --- Start of the program Bug2_Garden.py --- 
+OP67376da5 LOGS: Wheels , 251 , 251
+OP67376dab LOGS: Acc , 0 , 11 , 8
+OP67376dac LOGS: Acc , 2 , 17 , -7
+OP67376dae LOGS: Acc , 4 , -1 , 17
+OP67376db9  --- Start of the program Bug2_Garden.py --- 
+OP67376db9 LOGS: Wheels , 251 , 251
+OP67376dbc LOGS: Wheels , -251 , 251
+OP67376dbc LOGS: Wheels , 251 , 251
+OP67376dbc LOGS: Wheels , -251 , 251
+OP67376dbc LOGS: Wheels , 251 , 251
+OP67376dbe LOGS: Wheels , -251 , 251
+OP67376dbe LOGS: Wheels , 251 , 251
+OP67376dbe LOGS: Wheels , -251 , 251
+OP67376dbe LOGS: Wheels , 251 , 251
+OP67376dbe LOGS: Wheels , -251 , 251
+OP67376dbf LOGS: Wheels , 251 , 251
+OP67376dbf LOGS: center , pressed
+OP67376dbf LOGS: center , released
+OP67376dbf LOGS: forward , pressed
+OP67376dc0 LOGS: Acc , 0 , 9 , 13
+OP67376dc0 LOGS: Wheels , -251 , 251
+OP67376dc1 LOGS: forward , released
+OP67376dc1 LOGS: Wheels , 251 , 251
+WO67376dc6 
+WI67376dc8 
