@@ -10,9 +10,11 @@ motor_left_target = 100
 motor_right_target = 100
 dist_threshold = 3500
 
+flag = 0
+
 @onevent
 def prox():
-    global mode, motor_left_target, motor_right_target
+    global mode, motor_left_target, motor_right_target, flag
 
     if mode == NORMAL:
         nf_leds_top(0, 32, 0)  # Green
