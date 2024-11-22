@@ -29,20 +29,27 @@ def prox():
         nf_leds_top(32, 0, 0)  # Red
         
         if prox_ground_delta[0] < 800 or prox_ground_delta[1] < 800:
-            timer_period[0] = 2380 #turn during 1950ms
             if flag == 0:
                 flag = 1
+                timer_period[0] = 2380 #turn during 1950ms
                 
+                motor_left_target = 0
+                motor_right_target = 0
+                
+                mode = TURN
+            else:
+                flag = 0
                 motor_left_target = -200
-                motor_right_target = 200
-                
-            mode = TURN
+                motor_right_target 
     
 @onevent
 def timer0():
     global mode, motor_left_target, motor_right_target
     # Check if the current mode is LINE to switch back to NORMAL
-    if mode == TURN and :
+    if flag:
+        flag = 0
+        
+    if mode == TURN and flag == 0:
         motor_left_target = 100
         motor_right_target = 100
         nf_leds_top(32, 32, 0) # Orange
