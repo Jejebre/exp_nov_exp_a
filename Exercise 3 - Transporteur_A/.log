@@ -84,3 +84,14 @@ OP6740b2b3 LOGS: Wheels , 0 , 0
 OP6740b2b3 LOGS: center , released
 OP6740b2b6 LOGS: Acc , 1 , 7 , 24
 OP6740b2c2 LOGS: Acc , -4 , -1 , 16
+OP6740b2c7  --- Start of the program Bug_TheTransporter.py --- 
+OP6740b2c7 LOGS: Wheels , 100 , 100
+OP6740b2cb LOGS: Wheels , -100 , -100
+OP6740b2cc LOGS: Wheels , -200 , 200
+OP6740b2ce LOGS: Wheels , 100 , 100
+OP6740b2d2 LOGS: Wheels , -100 , -100
+OP6740b2d4 LOGS: Wheels , -200 , 200
+OP6740b2d5 LOGS: Wheels , 100 , 100
+OP6740b2d7 LOGS: center , pressed
+OP6740b2d7 LOGS: Wheels , 0 , 0
+OP6740b2d7 LOGS: center , released
