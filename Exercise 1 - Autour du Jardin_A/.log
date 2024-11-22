@@ -1,3 +1,23 @@
 OP6740aee0  --- Start of the program Bug2_Garden.py --- 
 OP6740aee0 LOGS: Wheels , 250 , 250
 OP6740aee3 LOGS: Wheels , 200 , -200
+OP6740aee4 LOGS: Wheels , 250 , 250
+OP6740aee5 LOGS: Acc , 0 , -11 , 21
+OP6740aee5 LOGS: right , pressed
+OP6740aee5 LOGS: right , released
+OP6740aee6 LOGS: Acc , 0 , -10 , 17
+OP6740aee7 LOGS: Wheels , 200 , -200
+OP6740aee7 LOGS: Acc , 0 , -11 , 13
+OP6740aef1  --- Start of the program Bug2_Garden.py --- 
+OP6740aef1 LOGS: Wheels , 250 , 250
+OP6740aef4 LOGS: Wheels , -200 , 200
+OP6740aef5 LOGS: Wheels , 250 , 250
+OP6740aef7 LOGS: Wheels , -200 , 200
+OP6740aef8 LOGS: Wheels , 250 , 250
+OP6740aefb LOGS: Wheels , -200 , 200
+OP6740aefc LOGS: Wheels , 250 , 250
+OP6740aeff LOGS: Wheels , -200 , 200
+OP6740af1c  --- Start of the program Bug2_Garden.py --- 
+OP6740af1c LOGS: Wheels , 250 , 250
+OP6740af1f LOGS: Wheels , -200 , 200
+OP6740af20 LOGS: Wheels , 250 , 250
