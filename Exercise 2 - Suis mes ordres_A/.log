@@ -38,3 +38,33 @@ OP6740b007 LOGS: center , pressed
 OP6740b007 LOGS: Wheels , 0 , 0
 OP6740b007 LOGS: center , released
 OP6740b008 LOGS: Acc , 0 , -1 , 24
+OP6740b025  --- Start of the program Bug2_Garden.py --- 
+OP6740b026 LOGS: forward , pressed
+OP6740b026 LOGS: Wheels , 255 , 255
+OP6740b026 LOGS: forward , released
+OP6740b028 LOGS: left , pressed
+OP6740b028 LOGS: Wheels , -100 , 100
+OP6740b028 LOGS: left , released
+OP6740b02a LOGS: forward , pressed
+OP6740b02a LOGS: Wheels , 255 , 255
+OP6740b02a LOGS: forward , released
+OP6740b02b LOGS: left , pressed
+OP6740b02b LOGS: left , released
+OP6740b02b LOGS: Wheels , -100 , 100
+OP6740b02d LOGS: forward , pressed
+OP6740b02d LOGS: Wheels , 255 , 255
+OP6740b02d LOGS: forward , released
+OP6740b02f LOGS: right , pressed
+OP6740b02f LOGS: right , released
+OP6740b02f LOGS: Wheels , 100 , -100
+OP6740b030 LOGS: forward , pressed
+OP6740b030 LOGS: Wheels , 255 , 255
+OP6740b030 LOGS: forward , released
+OP6740b031 LOGS: right , pressed
+OP6740b031 LOGS: right , released
+OP6740b031 LOGS: Wheels , 100 , -100
+OP6740b031 LOGS: center , pressed
+OP6740b031 LOGS: Wheels , 0 , 0
+OP6740b031 LOGS: center , released
+OP6740b033 LOGS: Acc , 2 , 4 , 24
+OP6740b04c LOGS: Acc , 6 , 1 , 26
