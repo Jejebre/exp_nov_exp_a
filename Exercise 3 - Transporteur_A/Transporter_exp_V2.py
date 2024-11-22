@@ -40,7 +40,7 @@ def prox():
             else:
                 flag = 0
                 motor_left_target = -200
-                motor_right_target 
+                motor_right_target = 200
     
 @onevent
 def timer0():

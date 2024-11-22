@@ -119,3 +119,19 @@ CT6740b435
 CT6740b435 
 PS6740b436 
 PS6740b436 
+OP6740b47a Warning: in function 'timer0', redefining variable 'flag' from outer scope
+OP6740b47a     
+OP6740b47a Line 46
+OP6740b47b  --- Start of the program Bug_TheTransporter.py --- 
+OP6740b47b LOGS: Wheels , 100 , 100
+OP6740b47d LOGS: Wheels , -100 , -100
+OP6740b47f LOGS: Wheels , 0 , 0
+OP6740b481 LOGS: Wheels , 100 , 100
+OP6740b483 LOGS: Wheels , -100 , -100
+OP6740b485 LOGS: Wheels , -200 , 200
+OP6740b485 LOGS: Wheels , 0 , 0
+OP6740b486 LOGS: Wheels , 100 , 100
+OP6740b488 LOGS: Wheels , -100 , -100
+OP6740b48a LOGS: center , pressed
+OP6740b48a LOGS: center , released
+OP6740b48a LOGS: Wheels , 0 , 0
