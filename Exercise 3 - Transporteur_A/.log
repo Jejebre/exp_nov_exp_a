@@ -10,3 +10,19 @@ PS6740b18b
 OP6740b1a3  --- Start of the program Bug_TheTransporter.py --- 
 OP6740b1a3 LOGS: Wheels , 251 , 251
 OP6740b1a5 LOGS: Wheels , -251 , -251
+CP6740b1de 
+CP6740b1de 
+PS6740b1e0 
+PS6740b1e0 
+PS6740b1e3 
+PS6740b1e3 
+PS6740b1e6 
+PS6740b1e6 
+OP6740b1ef  --- Start of the program Bug_TheTransporter.py --- 
+OP6740b1ef LOGS: Wheels , 100 , 100
+OP6740b1f5 LOGS: Wheels , -100 , -100
+OP6740b1f7 LOGS: Wheels , -100 , 100
+OP6740b1f9 LOGS: Wheels , 100 , 100
+OP6740b1fb LOGS: center , pressed
+OP6740b1fb LOGS: Wheels , 0 , 0
+OP6740b1fb LOGS: center , released

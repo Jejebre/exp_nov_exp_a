@@ -8,6 +8,7 @@ STOP = 3
 mode = NORMAL
 motor_left_target = 100 
 motor_right_target = 100
+dist_threshold = 3500
 
 @onevent
 def prox():
@@ -16,7 +17,7 @@ def prox():
     if mode == NORMAL:
         nf_leds_top(0, 32, 0)  # Green
         
-        if prox_horizontal[2] > 2500 or prox_horizontal[1] > 2500 or prox_horizontal[3] > 2500:
+        if prox_horizontal[2] > dist_threshold or prox_horizontal[1] > dist_threshold or prox_horizontal[3] > dist_threshold:
             mode = WALLS
             motor_left_target = -100
             motor_right_target = -100
