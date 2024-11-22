@@ -5,7 +5,7 @@ LINE = 2
 STOP = 3
 
 # Start
-mode = NORMAL
+mode = WALLS
 motor_left_target = 100 
 motor_right_target = 100
 dist_threshold = 3500
@@ -28,9 +28,9 @@ def prox():
         
         if prox_ground_delta[0] < 800 or prox_ground_delta[1] < 800:
             mode = LINE
-            timer_period[0] = 2600 #turn during 1950ms            
-            motor_left_target = -170
-            motor_right_target = 170
+            timer_period[0] = 2500 #turn during 1950ms            
+            motor_left_target = -200
+            motor_right_target = 200
 
 @onevent
 def timer0():
