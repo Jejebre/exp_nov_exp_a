@@ -79,3 +79,11 @@ OP6746e943 LOGS: Wheels , -251 , 251
 OP6746e944 LOGS: Wheels , 251 , 251
 OP6746ea23  --- Start of the program Bug2_Garden.py --- 
 OP6746ea23 LOGS: Wheels , 251 , 251
+OP6746eae3 Error: unknown variable 'print'
+OP6746eae3     
+OP6746eae3 Line 10
+OP6746eae5 Error: unknown variable 'print'
+OP6746eae5     
+OP6746eae5 Line 10
+OP6746eaf2  --- Start of the program Bug2_Garden.py --- 
+OP6746eaf2 LOGS: Wheels , 251 , 251
