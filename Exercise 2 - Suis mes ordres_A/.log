@@ -1,0 +1,7 @@
+OP6746e45c  --- Start of the program Bug2_Garden.py --- 
+OP6746e460 LOGS: forward , pressed
+OP6746e460 LOGS: Wheels , -255 , -255
+OP6746e460 LOGS: forward , released
+OP6746e462 LOGS: Acc , 5 , 1 , 18
+OP6746e463 LOGS: Acc , -14 , 15 , 2
+OP6746e479  --- Start of the program Bug2_Garden.py --- 
