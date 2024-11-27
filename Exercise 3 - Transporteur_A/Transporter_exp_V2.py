@@ -27,7 +27,7 @@ def prox():
         
         if prox_ground_delta[0] < 800 or prox_ground_delta[1] < 800:
             mode = LINE
-            timer_period[0] = 1950 #turn during 1950ms
+            timer_period[0] = 1850 #turn during 1950ms
             
             motor_left_target = -251
             motor_right_target = 251
@@ -41,6 +41,7 @@ def timer0():
         motor_right_target = 251
         nf_leds_top(32, 32, 0) # Orange
         mode = NORMAL
+        timer_period[0] = 10
         
 @onevent
 def buttons():
