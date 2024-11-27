@@ -23,6 +23,9 @@ def prox():
     
     elif mode == WALLS:
         nf_leds_top(32, 0, 0)  # Red
+        motor_left_target = -251 
+        motor_right_target = -251
+        
         
         if prox_ground_delta[0] < 800 or prox_ground_delta[1] < 800:
             mode = LINE
