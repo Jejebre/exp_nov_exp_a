@@ -3,3 +3,35 @@ WI67473013
 OP67473299 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
 OP674732b0  --- Start of the program Bug_TheTransporter.py --- 
 OP674732b0 LOGS: Wheels , -251 , -251
+OP674732b1 LOGS: Acc , -5 , -4 , 18
+OP674732b2 LOGS: Wheels , -251 , 251
+OP674732b2 LOGS: Acc , 0 , 7 , 16
+OP674732b4 LOGS: Wheels , 251 , 251
+OP674732b4 LOGS: Wheels , -251 , -251
+OP674732b4 LOGS: Wheels , -251 , 251
+OP674732b4 LOGS: Acc , 4 , 6 , 18
+OP674732b5 LOGS: Acc , 10 , 16 , 9
+OP674732b6 LOGS: Wheels , 251 , 251
+OP674732b6 LOGS: Wheels , -251 , -251
+OP674732b6 LOGS: Wheels , -251 , 251
+OP674732b6 LOGS: Acc , 10 , 17 , 5
+OP674732b7 LOGS: Acc , 3 , 8 , 12
+OP674732b7 LOGS: Wheels , 251 , 251
+OP674732b8 LOGS: Wheels , -251 , -251
+OP674732b8 LOGS: Wheels , -251 , 251
+OP674732ba LOGS: Wheels , -251 , -251
+OP674732bc LOGS: Wheels , -251 , 251
+OP674732bd LOGS: Acc , 0 , -7 , 15
+OP674732bd LOGS: Wheels , 251 , 251
+OP674732be LOGS: Wheels , -251 , -251
+OP674732be LOGS: Wheels , -251 , 251
+OP674732bf LOGS: Wheels , 251 , 251
+OP674732bf LOGS: Wheels , -251 , -251
+OP674732c1 LOGS: Wheels , -251 , 251
+OP674732c2 LOGS: Acc , -1 , 7 , 21
+OP674732c3 LOGS: Wheels , -251 , -251
+OP674732c3 LOGS: Wheels , -251 , 251
+OP674732c3 LOGS: center , pressed
+OP674732c4 LOGS: Wheels , 0 , 0
+OP674732c4 LOGS: center , released
+OP674732c5 LOGS: Acc , 5 , 0 , 10
