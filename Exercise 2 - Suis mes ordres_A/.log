@@ -5,3 +5,34 @@ OP6746e460 LOGS: forward , released
 OP6746e462 LOGS: Acc , 5 , 1 , 18
 OP6746e463 LOGS: Acc , -14 , 15 , 2
 OP6746e479  --- Start of the program Bug2_Garden.py --- 
+OP6746e47b LOGS: forward , released
+OP6746e494  --- Start of the program Bug2_Garden.py --- 
+OP6746e495 LOGS: forward , pressed
+OP6746e495 LOGS: Wheels , 255 , 255
+OP6746e495 LOGS: forward , released
+OP6746e497 LOGS: center , pressed
+OP6746e498 LOGS: Wheels , 0 , 0
+OP6746e498 LOGS: center , released
+OP6746e49a LOGS: left , pressed
+OP6746e49a LOGS: Wheels , -100 , 100
+OP6746e49a LOGS: left , released
+OP6746e4a5 LOGS: center , pressed
+OP6746e4a5 LOGS: Wheels , 0 , 0
+OP6746e4a5 LOGS: center , released
+OP6746e4a8 LOGS: backward , pressed
+OP6746e4a8 LOGS: backward , released
+OP6746e4a8 LOGS: Wheels , -255 , -255
+OP6746e4a9 LOGS: center , pressed
+OP6746e4a9 LOGS: center , released
+OP6746e4a9 LOGS: Wheels , 0 , 0
+OP6746e4ab LOGS: left , pressed
+OP6746e4ab LOGS: Wheels , -100 , 100
+OP6746e4ab LOGS: left , released
+OP6746e4ad LOGS: center , pressed
+OP6746e4ad LOGS: Wheels , 0 , 0
+OP6746e4ad LOGS: center , released
+OP6746e4ae LOGS: forward , pressed
+OP6746e4ae LOGS: Wheels , 255 , 255
+OP6746e4af LOGS: center , pressed
+OP6746e4b0 LOGS: center , released
+OP6746e4b2 LOGS: Acc , 3 , 3 , 27
