@@ -19,6 +19,7 @@ def prox():
             motor_right_target = 251
         else:
             mode = WALLS
+            time_period[0] = 
             
     
     elif mode == WALLS:
