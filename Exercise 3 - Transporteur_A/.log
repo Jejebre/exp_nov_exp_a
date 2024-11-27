@@ -43,3 +43,12 @@ OP6747332b LOGS: Acc , -2 , 1 , 26
 OP67473368 LOGS: Acc , 1 , 0 , 14
 OP6747336d  --- Start of the program Bug_TheTransporter.py --- 
 OP6747337a  --- Start of the program Bug_TheTransporter.py --- 
+OP674733c7  --- Start of the program Bug_TheTransporter.py --- 
+OP674733c8 LOGS: Wheels , 250 , 250
+OP674733ca LOGS: Wheels , -251 , -251
+OP674733cc LOGS: Wheels , -251 , 251
+OP674733cd LOGS: Acc , -6 , 3 , 14
+OP674733ce LOGS: center , pressed
+OP674733ce LOGS: Wheels , 0 , 0
+OP674733ce LOGS: center , released
+OP674733ce LOGS: Acc , -11 , 0 , 15
