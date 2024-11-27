@@ -1,0 +1,44 @@
+OP67473156  --- Start of the program Bug2_Garden.py --- 
+OP67473157 LOGS: forward , pressed
+OP67473157 LOGS: Wheels , 0 , 255
+OP67473157 LOGS: forward , released
+OP67473158 LOGS: Acc , 0 , 0 , 16
+OP67473159 LOGS: center , pressed
+OP67473159 LOGS: Wheels , 0 , 0
+OP67473159 LOGS: center , released
+OP67473166  --- Start of the program Bug2_Garden.py --- 
+OP67473166 LOGS: forward , pressed
+OP67473166 LOGS: Wheels , 255 , 255
+OP67473168 LOGS: forward , released
+OP67473168 LOGS: left , pressed
+OP67473168 LOGS: Wheels , -100 , 100
+OP67473169 LOGS: left , released
+OP6747316b LOGS: forward , pressed
+OP6747316b LOGS: Wheels , 255 , 255
+OP6747316b LOGS: forward , released
+OP6747316b LOGS: left , pressed
+OP6747316b LOGS: Wheels , -100 , 100
+OP6747316b LOGS: left , released
+OP6747316e LOGS: forward , pressed
+OP6747316e LOGS: Wheels , 255 , 255
+OP6747316e LOGS: forward , released
+OP67473170 LOGS: right , pressed
+OP67473170 LOGS: Wheels , 100 , -100
+OP67473170 LOGS: right , released
+OP67473172 LOGS: forward , pressed
+OP67473172 LOGS: Wheels , 255 , 255
+OP67473172 LOGS: forward , released
+OP67473172 LOGS: right , pressed
+OP67473172 LOGS: Wheels , 100 , -100
+OP67473172 LOGS: right , released
+OP67473174 LOGS: forward , pressed
+OP67473174 LOGS: Wheels , 255 , 255
+OP67473174 LOGS: forward , released
+OP67473176 LOGS: center , pressed
+OP67473176 LOGS: Wheels , 0 , 0
+OP67473176 LOGS: center , released
+OP6747317a LOGS: backward , pressed
+OP6747317a LOGS: Wheels , -255 , -255
+OP6747317b LOGS: center , pressed
+OP6747317b LOGS: Wheels , 0 , 0
+OP6747317b LOGS: center , released
