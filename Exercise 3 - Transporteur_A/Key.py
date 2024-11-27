@@ -7,7 +7,7 @@ back = 6
 @onevent
 def prox():
     global prox_horizontal, motor_left_target, motor_right_target
-    
+    print(prox_horizontal[2]) # it is for the prox 2 !!
     if prox_horizontal[2] > 2000:
         nf_leds_top(0,32,0) # Green
         motor_left_target = -251 
