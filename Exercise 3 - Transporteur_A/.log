@@ -52,3 +52,29 @@ OP674733ce LOGS: center , pressed
 OP674733ce LOGS: Wheels , 0 , 0
 OP674733ce LOGS: center , released
 OP674733ce LOGS: Acc , -11 , 0 , 15
+OP674733ec  --- Start of the program Bug_TheTransporter.py --- 
+OP674733ec LOGS: Wheels , 250 , 250
+OP674733ee LOGS: Wheels , -251 , -251
+OP674733ee LOGS: Wheels , -251 , 251
+OP674733f0 LOGS: Wheels , 251 , 251
+OP674733f0 LOGS: Wheels , 250 , 250
+OP674733f2 LOGS: Wheels , -251 , -251
+OP674733f3 LOGS: Wheels , -251 , 251
+OP674733f4 LOGS: Wheels , 250 , 250
+OP674733f6 LOGS: Acc , 6 , -2 , 16
+OP674733f7 LOGS: center , pressed
+OP674733f7 LOGS: Wheels , 0 , 0
+OP674733f7 LOGS: center , released
+OP67473404  --- Start of the program Bug_TheTransporter.py --- 
+OP67473404 LOGS: Wheels , 250 , 250
+OP67473407 LOGS: Wheels , -251 , -251
+OP67473407 LOGS: Wheels , -251 , 251
+OP67473409 LOGS: Wheels , 251 , 251
+OP67473409 LOGS: Wheels , 250 , 250
+OP6747340b LOGS: Wheels , -251 , -251
+OP6747340c LOGS: Wheels , -251 , 251
+OP6747340d LOGS: Wheels , 251 , 251
+OP6747340d LOGS: Wheels , 250 , 250
+OP6747340e LOGS: center , pressed
+OP6747340e LOGS: Wheels , 0 , 0
+OP6747340e LOGS: center , released
