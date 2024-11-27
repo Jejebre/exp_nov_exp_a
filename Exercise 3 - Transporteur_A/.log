@@ -38,3 +38,14 @@ OP6746e7b8 LOGS: Wheels , -251 , 251
 OP6746e7b9  --- Start of the program Bug_TheTransporter.py --- 
 OP6746e7b9 LOGS: Wheels , 251 , 251
 OP6746e7b9 LOGS: Wheels , -251 , 251
+OP6746e8af Error: invalid syntax
+OP6746e8af     
+OP6746e8af Line 22
+OP6746e8b0 Error: invalid syntax
+OP6746e8b0     
+OP6746e8b0 Line 22
+OP6746e8be  --- Start of the program Bug_TheTransporter.py --- 
+OP6746e8be LOGS: Wheels , 251 , 251
+OP6746e8bf LOGS: Wheels , -251 , 251
+OP6746e8c2 LOGS: Wheels , -251 , 251
+OP6746e8c3 LOGS: Wheels , 251 , 251
