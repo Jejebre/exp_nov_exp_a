@@ -283,3 +283,13 @@ WO6818ca07
 WI6818ca0c 
 WO6818ca12 
 WI6818ca1a 
+OP6818ca59 %cd '/Users/jerome/Desktop/all/exp_nov_exp_a/Exercise 3 - Transporteur_A'
+OP6818ca59 %Run Transporter_exp_V2_sol_1.py
+OP6818ca59 >>> 
+OP6818ca59 Traceback (most recent call last):
+OP6818ca59   
+OP6818ca59 File "/Users/jerome/Desktop/all/exp_nov_exp_a/Exercise 3 - Transporteur_A/Transporter_exp_V2_sol_1.py", line 10, in <module>
+OP6818ca59     @onevent
+OP6818ca59 NameError: name 'onevent' is not defined
+OP6818ca59 >>> 
+RN6818ca59 
