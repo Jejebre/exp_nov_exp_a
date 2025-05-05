@@ -4,14 +4,6 @@ WALLS = 1
 LINE = 2
 STOP = 3
 
-
-
-# Constants
-NORMAL = 0
-WALLS = 1
-LINE = 2
-STOP = 3
-
 # Start
 mode = NORMAL
 
@@ -36,12 +28,9 @@ def prox():
         # Check for line while moving backward
         if prox_ground_delta[0] < 500 or prox_ground_delta[2] < 500:  # Line detected
             mode = LINE
-            motor_left_target = 0  # Stop backward movement
-            motor_right_target = 0
-            (500)  # Pause for a moment
             motor_left_target = 250  # Start turning
             motor_right_target = -250  # Turn
-            timer_period[0] = 400  # Duration of turning
+            timer_period[0] = 1950  # Duration of turning
 
 @onevent
 def timer0():
