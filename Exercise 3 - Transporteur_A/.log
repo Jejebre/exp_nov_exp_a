@@ -415,3 +415,8 @@ OP6818cc58 LOGS: Acc , 6 , -4 , 18
 OP6818cc59 LOGS: Wheels , 251 , 251
 OP6818cc5a LOGS: Wheels , -251 , 251
 OP6818cc5b LOGS: Wheels , 251 , 251
+OP6818cc5b LOGS: Wheels , -251 , -251
+OP6818cc5c LOGS: Wheels , -251 , 251
+OP6818cc5c LOGS: Wheels , 251 , 251
+OP6818cc60 LOGS: Acc , -4 , -7 , 19
+WO6818cc89 
