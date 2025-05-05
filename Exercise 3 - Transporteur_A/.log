@@ -503,3 +503,7 @@ OP6818ce3f Line 41
 OP6818ce41 Error: invalid syntax
 OP6818ce41     
 OP6818ce41 Line 41
+OP6818ce56 Error: unknown function 'sleep'
+OP6818ce56     
+OP6818ce56 Line 41
+OP6818ce65 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
