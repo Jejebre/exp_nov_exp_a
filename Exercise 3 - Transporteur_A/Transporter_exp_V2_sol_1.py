@@ -4,6 +4,10 @@ WALLS = 1
 LINE = 2
 STOP = 3
 
+
+motor_left_target = 251 
+motor_right_target = 251
+
 # Start
 mode = NORMAL
 
