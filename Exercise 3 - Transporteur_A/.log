@@ -59,3 +59,10 @@ OP6818c0c9 LOGS: Wheels , 250 , 250
 OP6818c14b  --- Start of the program Bug_TheTransporter.py --- 
 OP6818c14b LOGS: Wheels , 200 , -200
 OP6818c14f LOGS: Wheels , 200 , -200
+OP6818c152 LOGS: Wheels , -250 , 250
+OP6818c17c  --- Start of the program Bug_TheTransporter.py --- 
+OP6818c17c LOGS: Wheels , 250 , 250
+OP6818c17e LOGS: Wheels , 200 , -200
+OP6818c18c  --- Start of the program Bug_TheTransporter.py --- 
+OP6818c18c LOGS: Wheels , -200 , 200
+OP6818c18e LOGS: Wheels , 250 , 250
