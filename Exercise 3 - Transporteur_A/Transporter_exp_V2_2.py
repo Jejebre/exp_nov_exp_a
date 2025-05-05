@@ -22,7 +22,7 @@ def buttons():
 def timer0():
     global leds_top, going_forward, motor_left_target, motor_right_target
     going_forward = not going_forward
-    way_modif = (mode==FORWARD * 2 + 1)
+    way_modif = ((mode==FORWARD) * 2 - 1)
     print(way_modif)
     print(motor_right_target)
     print(motor_left_target)
