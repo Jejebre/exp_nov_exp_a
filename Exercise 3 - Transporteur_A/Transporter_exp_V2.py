@@ -1,6 +1,6 @@
 FORWARD = 1
 BACKWARD = 0
-forward_time = 1800
+forward_time = 1700
 turn_time = 1100
 
 going_forward = True
@@ -21,7 +21,7 @@ def buttons():
 @onevent
 def timer0():
     global leds_top, going_forward, motor_left_target, motor_right_target
-    way_modif = (mode==FORWARD * 2 + 1)
+    way_modif = (mode==FORWARD * 2 - 1)
     if going_forward:
         timer_period[0] = forward_time
         nf_leds_top(0,32,0) # Green
