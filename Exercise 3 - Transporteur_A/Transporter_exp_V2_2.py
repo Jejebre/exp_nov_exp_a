@@ -11,8 +11,7 @@ mode = FORWARD
 
 @onevent
 def buttons():
-    global mode, motor_right_target, motor_left_target, going_forward
-    if button_forward:
+    global mode, motor_right_target, motor_left_target, going_forward    if button_forward:
         mode=FORWARD
     if button_backward:
         mode=BACKWARD
