@@ -34,8 +34,11 @@ def prox():
         motor_right_target = -250
 
         # Check for line while moving backward
-        if prox_ground_delta[0] < 800 or prox_ground_delta[] < 800:  # Line detected
+        if prox_ground_delta[0] < 500 or prox_ground_delta[2] < 500:  # Line detected
             mode = LINE
+            motor_left_target = 0  # Stop backward movement
+            motor_right_target = 0
+            (500)  # Pause for a moment
             motor_left_target = 250  # Start turning
             motor_right_target = -250  # Turn
             timer_period[0] = 400  # Duration of turning
