@@ -7,7 +7,7 @@ going_forward = False
 timer_period[0] = 100
 
 
-mode = FORWARD
+mode = BACKWARD
 
 @onevent
 def buttons():
