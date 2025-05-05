@@ -11,7 +11,8 @@ mode = FORWARD
 
 @onevent
 def buttons():
-    global mode, motor_right_target, motor_left_target, going_forward    if button_forward:
+    global mode, motor_right_target, motor_left_target, going_forward
+    if button_forward:
         mode=FORWARD
     if button_backward:
         mode=BACKWARD
@@ -23,6 +24,8 @@ def timer0():
     going_forward = not going_forward
     way_modif = (mode==FORWARD * 2 + 1)
     print(way_modif)
+    print(motor_right_target)
+    print(motor_left_target)
     if going_forward:
         timer_period[0] = forward_time
         nf_leds_top(0,32,0) # Green
