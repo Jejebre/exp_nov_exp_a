@@ -154,3 +154,29 @@ OP6818c625 LOGS: Wheels , 250 , 250
 OP6818c626 LOGS: backward , pressed
 OP6818c626 LOGS: backward , released
 OP6818c626 LOGS: Wheels , 0 , 0
+OP6818c682 LOGS: Acc , 1 , 0 , 24
+OP6818c683 LOGS: Acc , 10 , 0 , 16
+OP6818c685  --- Start of the program Bug_TheTransporter.py --- 
+OP6818c685 LOGS: Wheels , 250 , 250
+OP6818c687 LOGS: Wheels , -200 , 200
+OP6818c688 LOGS: Wheels , 250 , 250
+OP6818c689 LOGS: backward , pressed
+OP6818c689 LOGS: backward , released
+OP6818c68a LOGS: Wheels , 200 , -200
+OP6818c68b LOGS: Wheels , -250 , -250
+OP6818c68d LOGS: Wheels , 200 , -200
+OP6818c68e LOGS: Wheels , -250 , -250
+OP6818c690 LOGS: Wheels , 200 , -200
+OP6818c691 LOGS: Wheels , -250 , -250
+OP6818c692 LOGS: Wheels , 200 , -200
+OP6818c699  --- Start of the program Bug_TheTransporter.py --- 
+OP6818c69a LOGS: Wheels , 250 , 250
+OP6818c69b LOGS: Wheels , -200 , 200
+OP6818c69c LOGS: Wheels , 250 , 250
+OP6818c69e LOGS: Wheels , -200 , 200
+OP6818c69f LOGS: Wheels , 250 , 250
+OP6818c6a1 LOGS: Wheels , -200 , 200
+OP6818c6a2 LOGS: Wheels , 250 , 250
+OP6818c6a3 LOGS: backward , pressed
+OP6818c6a3 LOGS: backward , released
+OP6818c6a4 LOGS: Wheels , 200 , -200
