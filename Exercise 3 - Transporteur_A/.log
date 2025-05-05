@@ -29,3 +29,10 @@ OP6818d01f     @onevent
 OP6818d01f NameError: name 'onevent' is not defined
 OP6818d01f >>> 
 RN6818d01f 
+OP6818d039 Python 3.10.11 (/Applications/Thonny.app/Contents/Frameworks/Python.framework/Versions/3.10/bin/python3.10)
+OP6818d039 >>> 
+WO6818d04d 
+WI6818d04d 
+WO6818d04d 
+WI6818d04e 
+OP6818d057 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
