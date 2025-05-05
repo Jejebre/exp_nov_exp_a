@@ -295,3 +295,19 @@ OP6818ca59 >>>
 RN6818ca59 
 OP6818ca6c Python 3.10.11 (/Applications/Thonny.app/Contents/Frameworks/Python.framework/Versions/3.10/bin/python3.10)
 OP6818ca6c >>> 
+WO6818ca75 
+WI6818ca75 
+WO6818ca75 
+WI6818ca76 
+OP6818ca87  --- Start of the program Bug_TheTransporter.py --- 
+OP6818ca87 LOGS: Wheels , -251 , -251
+OP6818ca87 LOGS: Wheels , -251 , 251
+OP6818ca89 LOGS: Wheels , 251 , 251
+OP6818ca89 LOGS: Wheels , -251 , -251
+OP6818ca8d LOGS: Wheels , -251 , 251
+OP6818ca8d LOGS: Acc , -2 , -9 , 8
+OP6818ca8f LOGS: Acc , -4 , -6 , 21
+OP6818ca96  --- Start of the program Bug_TheTransporter.py --- 
+OP6818ca96 LOGS: Wheels , -251 , -251
+OP6818ca98 LOGS: Wheels , 251 , 251
+OP6818ca98 LOGS: Wheels , -251 , -251
