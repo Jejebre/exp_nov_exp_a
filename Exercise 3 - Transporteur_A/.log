@@ -5,3 +5,5 @@ WI6818da2e
 PS6818da34 
 PS6818da34 
 WO6818da41 
+WI6818da80 
+OP6818da86 Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
