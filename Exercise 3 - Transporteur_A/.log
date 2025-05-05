@@ -490,3 +490,16 @@ OP6818cdce LOGS: center , pressed
 OP6818cdce LOGS: Wheels , 0 , 0
 OP6818cdce LOGS: center , released
 WO6818cdfb 
+WI6818ce12 
+PS6818ce35 
+PS6818ce35 
+OP6818ce3b LOGS: Acc , 0 , 0 , 34
+OP6818ce3e Error: invalid syntax
+OP6818ce3e     
+OP6818ce3e Line 41
+OP6818ce3f Error: invalid syntax
+OP6818ce3f     
+OP6818ce3f Line 41
+OP6818ce41 Error: invalid syntax
+OP6818ce41     
+OP6818ce41 Line 41
