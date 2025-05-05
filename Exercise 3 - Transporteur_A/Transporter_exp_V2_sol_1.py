@@ -5,8 +5,6 @@ LINE = 2
 STOP = 3
 
 
-motor_left_target = 251 
-motor_right_target = 251
 
 # Start
 mode = NORMAL
@@ -16,6 +14,9 @@ def prox():
     global mode, motor_left_target, motor_right_target
 
     if mode == NORMAL:
+        
+        motor_left_target = 251 
+        motor_right_target = 251
         nf_leds_top(0, 32, 0)  # Green
         
         if prox_horizontal[2] > 2500 or prox_horizontal[1] > 2500:
