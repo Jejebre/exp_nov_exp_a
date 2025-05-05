@@ -1,7 +1,7 @@
 FORWARD = 1
 BACKWARD = 0
 forward_time = 1700
-turn_time =1000
+turn_time =600
 
 going_forward = True
 timer_period[0] = 100
