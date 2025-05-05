@@ -224,3 +224,10 @@ WO6818e23e
 WI6818e255 
 PS6818e257 
 PS6818e257 
+OP6818e2b4  --- Start of the program Bug_TheTransporter.py --- 
+OP6818e2b9 LOGS: forward , released
+OP6818e2be LOGS: backward , pressed
+OP6818e2be LOGS: backward , released
+OP6818e2c0 LOGS: Wheels , 250 , 250
+OP6818e2c3 LOGS: Wheels , 200 , -200
+OP6818e2c4 LOGS: Wheels , 250 , 250
