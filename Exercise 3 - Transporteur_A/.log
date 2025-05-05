@@ -141,3 +141,38 @@ OP6818dded LOGS: Acc , -9 , -4 , 26
 OP6818de5f LOGS: Acc , -1 , -4 , 15
 OP6818de61 LOGS: Acc , -3 , 0 , 24
 OP6818de67 LOGS: Acc , -2 , 0 , 24
+OP6818de71  --- Start of the program Bug_TheTransporter.py --- 
+OP6818de71 LOGS: Wheels , 251 , 251
+OP6818de75 LOGS: Wheels , -251 , -251
+OP6818de78 LOGS: Wheels , -251 , 251
+OP6818de79 LOGS: Acc , -4 , 4 , 18
+OP6818de7a LOGS: Wheels , 251 , 251
+OP6818de7c LOGS: Acc , 0 , 7 , 15
+OP6818de7d LOGS: center , pressed
+OP6818de7d LOGS: Wheels , 0 , 0
+OP6818de7d LOGS: center , released
+OP6818de82 LOGS: Acc , 1 , -2 , 24
+UD6818de8d 
+UD6818de8d 
+UD6818de8d 
+UD6818de8d 
+UD6818de8e 
+UD6818de8e 
+UD6818de8e 
+UD6818de8e 
+UD6818de8f 
+UD6818de8f 
+OP6818de97  --- Start of the program Bug_TheTransporter.py --- 
+OP6818de97 LOGS: Wheels , 251 , 251
+OP6818de9a LOGS: Wheels , -251 , -251
+OP6818de9a LOGS: Wheels , -251 , 251
+OP6818de9c LOGS: Wheels , 251 , 251
+OP6818de9e LOGS: Wheels , -251 , -251
+OP6818de9e LOGS: Wheels , -251 , 251
+OP6818de9e LOGS: Wheels , 251 , 251
+OP6818de9f LOGS: Wheels , -251 , -251
+OP6818de9f LOGS: Wheels , -251 , 251
+OP6818dea0 LOGS: Wheels , 251 , 251
+OP6818dea2 LOGS: center , pressed
+OP6818dea2 LOGS: Wheels , 0 , 0
+OP6818dea3 LOGS: center , released
