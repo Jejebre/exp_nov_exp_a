@@ -124,3 +124,22 @@ WO6818c4ef
 WI6818c555 
 WO6818c56e 
 WI6818c595 
+OP6818c5c4  --- Start of the program Bug_TheTransporter.py --- 
+OP6818c5c4 LOGS: Wheels , 250 , 250
+OP6818c5c5 LOGS: Wheels , -200 , 200
+OP6818c5c7 LOGS: Wheels , 250 , 250
+OP6818c5c8 LOGS: Wheels , -200 , 200
+OP6818c5c9 LOGS: Wheels , 250 , 250
+OP6818c5cb LOGS: Wheels , -200 , 200
+OP6818c5cc LOGS: Wheels , 250 , 250
+OP6818c5dc  --- Start of the program Bug_TheTransporter.py --- 
+OP6818c5dc LOGS: Wheels , 250 , 250
+OP6818c5dd LOGS: backward , pressed
+OP6818c5dd LOGS: backward , released
+OP6818c5de LOGS: backward , pressed
+OP6818c5de LOGS: backward , released
+OP6818c5de LOGS: backward , pressed
+OP6818c5de LOGS: Wheels , 0 , 0
+OP6818c5de LOGS: backward , released
+OP6818c5e1 LOGS: backward , pressed
+OP6818c5e2 LOGS: backward , released
