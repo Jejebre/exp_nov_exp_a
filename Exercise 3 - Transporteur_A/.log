@@ -5,3 +5,41 @@ PS681dc723
 WO681dc75a 
 WI681dc75d 
 OP681dc7bd Compilation error: Access of array prox.ground.delta out of bounds: accessing index 2 while array is of size 2
+OP681dc80d Python 3.10.11 (/Applications/Thonny.app/Contents/Frameworks/Python.framework/Versions/3.10/bin/python3.10)
+OP681dc80d >>> 
+OP681dc813  --- Start of the program Bug_TheTransporter.py --- 
+OP681dc813 LOGS: Wheels , -251 , -251
+OP681dc814 LOGS: Wheels , -251 , 251
+OP681dc816 LOGS: Wheels , 251 , 251
+OP681dc816 LOGS: Wheels , -251 , -251
+OP681dc818 LOGS: Wheels , 251 , 251
+OP681dc818 LOGS: Wheels , -251 , -251
+OP681dc818 LOGS: Wheels , -251 , 251
+OP681dc81a LOGS: Wheels , 251 , 251
+OP681dc81a LOGS: Wheels , -251 , -251
+OP681dc81c LOGS: Wheels , -251 , 251
+OP681dc81e LOGS: Wheels , -251 , -251
+OP681dc81f LOGS: Wheels , -251 , 251
+OP681dc820 LOGS: Wheels , 251 , 251
+OP681dc820 LOGS: Wheels , -251 , -251
+OP681dc820 LOGS: Wheels , -251 , 251
+OP681dc822 LOGS: Wheels , 251 , 251
+OP681dc822 LOGS: Wheels , -251 , -251
+OP681dc824 LOGS: Wheels , -251 , 251
+OP681dc825 LOGS: Wheels , -251 , -251
+OP681dc827 LOGS: Wheels , -251 , 251
+OP681dc827 LOGS: Wheels , -251 , -251
+OP681dc828 LOGS: Wheels , -251 , 251
+OP681dc829 LOGS: Wheels , 251 , 251
+OP681dc829 LOGS: Wheels , -251 , -251
+OP681dc834  --- Start of the program Bug_TheTransporter.py --- 
+OP681dc834 LOGS: Wheels , -251 , -251
+OP681dc835 LOGS: Wheels , -251 , 251
+OP681dc837 LOGS: Wheels , 251 , 251
+OP681dc837 LOGS: Wheels , -251 , -251
+OP681dc839 LOGS: Wheels , -251 , 251
+OP681dc839 LOGS: Wheels , 251 , 251
+OP681dc839 LOGS: Wheels , -251 , -251
+OP681dc83a LOGS: Wheels , -251 , 251
+OP681dc83b LOGS: Wheels , 251 , 251
+OP681dc83b LOGS: Wheels , -251 , -251
