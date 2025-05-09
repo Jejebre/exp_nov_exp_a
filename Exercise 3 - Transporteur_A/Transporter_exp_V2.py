@@ -15,9 +15,11 @@ def buttons():
     if button_forward:
         mode=FORWARD
         going_forward = True
+        timer_period[0] = forward_time
     if button_backward:
         mode=BACKWARD
-        going_forward = False
+        going_forward = True
+        timer_period[0] = forward_time
     
 @onevent
 def timer0():
