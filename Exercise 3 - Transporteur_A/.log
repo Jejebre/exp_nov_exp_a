@@ -29,3 +29,22 @@ OP681df48a LOGS: center , released
 OP681df48a LOGS: Acc , 10 , 0 , 15
 OP681df48b LOGS: Acc , 0 , 7 , 24
 OP681df4f6  --- Start of the program Bug_TheTransporter.py --- 
+OP681df51b  --- Start of the program Bug_TheTransporter.py --- 
+OP681df51c  --- Start of the program Bug_TheTransporter.py --- 
+OP681df51c LOGS: Wheels , -251 , -251
+OP681df51d LOGS: Wheels , -251 , 251
+OP681df51e LOGS: Acc , -5 , 0 , 21
+OP681df51f LOGS: Wheels , 251 , 251
+OP681df51f LOGS: Wheels , -251 , -251
+OP681df51f LOGS: Wheels , -251 , 251
+OP681df521 LOGS: Wheels , 251 , 251
+OP681df523 LOGS: Wheels , -251 , -251
+OP681df524 LOGS: Wheels , -251 , 251
+OP681df525 LOGS: Wheels , -251 , -251
+OP681df525 LOGS: Wheels , -251 , 251
+OP681df527 LOGS: Wheels , 251 , 251
+OP681df52a LOGS: center , pressed
+OP681df52a LOGS: center , released
+OP681df52b LOGS: Acc , 1 , -4 , 28
+CP681df549 
+CP681df549 
