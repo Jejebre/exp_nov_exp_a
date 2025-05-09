@@ -7,7 +7,8 @@ going_forward = True
 timer_period[0] = forward_time
 
 mode = FORWARD
-going_forward = True
+motor_right_target = 250
+motor_left_target = 250
 
 @onevent
 def buttons():
