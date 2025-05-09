@@ -12,19 +12,12 @@ mode = FORWARD
 @onevent
 def buttons():
     global mode, motor_right_target, motor_left_target, going_forward
-    print("Before")
-    print(mode)
-    print(button_forward)
     if button_forward:
         mode=FORWARD
     if button_backward:
         mode=BACKWARD
-    print(mode)
-    print(button_forward)
-    print("After")
-    
     going_forward = not going_forward
-    print(going_forward)
+    
 @onevent
 def timer0():
     global leds_top, going_forward, motor_left_target, motor_right_target
