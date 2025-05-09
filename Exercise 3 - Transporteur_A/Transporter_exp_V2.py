@@ -19,7 +19,7 @@ def buttons():
         motor_left_target = 250
     if button_backward:
         mode=BACKWARD
-        going_forward = False
+        going_forward = True
         motor_right_target = -250
         motor_left_target = -250
 
