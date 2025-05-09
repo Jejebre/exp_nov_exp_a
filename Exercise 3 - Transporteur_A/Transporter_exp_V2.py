@@ -4,7 +4,7 @@ forward_time = 1800
 turn_time = 1100
 
 going_forward = False
-timer_period[0] = 0
+timer_period[0] = 100
 
 
 mode = FORWARD
