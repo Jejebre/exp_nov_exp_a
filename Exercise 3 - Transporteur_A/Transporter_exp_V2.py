@@ -5,7 +5,7 @@ LINE = 2
 STOP = 3
 
 # Start
-mode = NORMAL
+mode = LINE
 
 @onevent
 def prox():
