@@ -32,6 +32,7 @@ def timer0():
         nf_leds_top(32,16,0) # Orange
         motor_right_target = 200*mode # *way_modif
         motor_left_target = -200*mode # *way_modif
+    going_forward = not going_forward
         
 # ------------------------------------------------------------- #
 # ------------------------------------------------------------- #
