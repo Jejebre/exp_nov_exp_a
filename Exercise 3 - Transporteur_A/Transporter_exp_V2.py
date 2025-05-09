@@ -24,7 +24,7 @@ def buttons():
     print("After")
     
     going_forward = not going_forward
-
+    print(going_forward)
 @onevent
 def timer0():
     global leds_top, going_forward, motor_left_target, motor_right_target
