@@ -1730,3 +1730,20 @@ OP681dfb6f LOGS: Wheels , 0 , 0
 OP681dfb75  --- Start of the program Bug_TheTransporter.py --- 
 OP681dfb75 LOGS: Wheels , 250 , 250
 OP681dfb75 LOGS: Wheels , 0 , 0
+CP681dfb99 
+CP681dfb99 
+PS681dfb9d 
+PS681dfb9d 
+OP681dfba5  --- Start of the program Bug_TheTransporter.py --- 
+OP681dfba5 LOGS: Wheels , 250 , 250
+OP681dfba9 LOGS: Acc , -4 , -1 , 17
+OP681dfbaa LOGS: Acc , -5 , -3 , 20
+OP681dfbaa LOGS: backward , pressed
+OP681dfbaa LOGS: backward , released
+OP681dfbab LOGS: Acc , -6 , -2 , 18
+OP681dfbac LOGS: Wheels , 200 , -200
+OP681dfbb0 LOGS: forward , pressed
+OP681dfbb0 LOGS: forward , released
+OP681dfbb0 LOGS: Wheels , 250 , 250
+OP681dfbb4 LOGS: Acc , 0 , -9 , 14
+WO681dfbd0 
