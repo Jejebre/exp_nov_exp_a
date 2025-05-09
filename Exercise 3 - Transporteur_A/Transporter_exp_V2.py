@@ -18,9 +18,30 @@ def buttons():
         mode=BACKWARD
     going_forward = not going_forward
 
+FORWARD = 1
+BACKWARD = -1
+forward_time = 1800
+turn_time = 1100
+
+going_forward = True
+timer_period[0] = 100
+
+
+mode = FORWARD
+
+@onevent
+def buttons():
+    global mode, motor_right_target, motor_left_target, going_forward
+    if button_forward:
+        mode=FORWARD
+    if button_backward:
+        mode=BACKWARD
+    going_forward = not going_forward
+
 @onevent
 def timer0():
     global leds_top, going_forward, motor_left_target, motor_right_target
+    going_forward = not going_forward
 #     way_modif = (mode==FORWARD * 2 + 1)
     if going_forward:
         timer_period[0] = forward_time
@@ -32,7 +53,6 @@ def timer0():
         nf_leds_top(32,16,0) # Orange
         motor_right_target = 200*mode # *way_modif
         motor_left_target = -200*mode # *way_modif
-    going_forward = not going_forward
         
 # ------------------------------------------------------------- #
 # ------------------------------------------------------------- #
