@@ -22710,3 +22710,44 @@ WO681dbc1b
 WI681dbc1f 
 WO681dbc2c 
 WI681dbc32 
+OP681dbc42 Python 3.10.11 (/Applications/Thonny.app/Contents/Frameworks/Python.framework/Versions/3.10/bin/python3.10)
+OP681dbc42 >>> 
+OP681dbc48  --- Start of the program Bug_TheTransporter.py --- 
+OP681dbc49 LOGS: Wheels , 250 , 250
+OP681dbc4b LOGS: Wheels , 200 , -200
+OP681dbc4c LOGS: Wheels , 250 , 250
+OP681dbc4e LOGS: Wheels , 200 , -200
+OP681dbc4f LOGS: Wheels , 250 , 250
+OP681dbc51 LOGS: Wheels , 200 , -200
+OP681dbc52 LOGS: Wheels , 250 , 250
+OP681dbc54 LOGS: Wheels , 200 , -200
+OP681dbc55 LOGS: Wheels , 250 , 250
+OP681dbc57 LOGS: Wheels , 200 , -200
+OP681dbc58 LOGS: Wheels , 250 , 250
+OP681dbc5a LOGS: Wheels , 200 , -200
+OP681dbc5b LOGS: Wheels , 250 , 250
+OP681dbc5d LOGS: Wheels , 200 , -200
+OP681dbc5e LOGS: Wheels , 250 , 250
+OP681dbc60 LOGS: Wheels , 200 , -200
+OP681dbc61 LOGS: Wheels , 250 , 250
+OP681dbc62 LOGS: Wheels , 200 , -200
+OP681dbc65 LOGS: backward , pressed
+OP681dbc65 LOGS: backward , released
+OP681dbc65 LOGS: Wheels , -250 , -250
+OP681dbc67 LOGS: Wheels , -200 , 200
+OP681dbc68 LOGS: Wheels , -250 , -250
+OP681dbc6a LOGS: Wheels , -200 , 200
+OP681dbc6e LOGS: Wheels , -250 , -250
+OP681dbc70 LOGS: Wheels , -200 , 200
+OP681dbc71 LOGS: Wheels , -250 , -250
+OP681dbc73 LOGS: Wheels , -200 , 200
+OP681dbc74 LOGS: Wheels , -250 , -250
+OP681dbc75 LOGS: forward , pressed
+OP681dbc75 LOGS: forward , released
+OP681dbc76 LOGS: Wheels , 250 , 250
+OP681dbc78 LOGS: Wheels , 200 , -200
+OP681dbc79 LOGS: Wheels , 250 , 250
+OP681dbc7a LOGS: Wheels , 200 , -200
+OP681dbc7c LOGS: Wheels , 250 , 250
+OP681dbc7d LOGS: Wheels , 200 , -200
+OP681dbc7f LOGS: Wheels , 250 , 250
