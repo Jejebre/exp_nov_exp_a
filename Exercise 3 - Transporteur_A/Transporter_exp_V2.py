@@ -6,6 +6,8 @@ STOP = 3
 
 # Start
 mode = NORMAL
+motor_left_target = 251
+motor_right_target = 251
 
 @onevent
 def prox():
