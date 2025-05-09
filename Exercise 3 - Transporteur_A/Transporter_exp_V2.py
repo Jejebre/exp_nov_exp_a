@@ -16,7 +16,7 @@ def buttons():
         mode=FORWARD
     if button_backward:
         mode=BACKWARD
-    going_forward = not going_forward
+        going_forward = not going_forward
     
 @onevent
 def timer0():
