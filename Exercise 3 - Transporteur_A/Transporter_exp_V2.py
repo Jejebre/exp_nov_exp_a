@@ -41,6 +41,7 @@ def timer0():
         nf_leds_top(32, 32, 0) # Orange
         mode = NORMAL
         
+        
 @onevent
 def buttons():
     global motor_left_target, motor_right_target, mode
