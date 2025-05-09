@@ -19,7 +19,7 @@ def prox():
         motor_right_target = 251
         
         
-        if prox_horizontal[2] > 3900 or prox_horizontal[1] > 3900:
+        if prox_horizontal[2] > 3900:
             mode = WALLS
             motor_left_target = -251 
             motor_right_target = -251
