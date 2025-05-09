@@ -1,38 +1,52 @@
-FORWARD = 1
-BACKWARD = -1
-forward_time = 1800
-turn_time = 1100
+# Constants
+NORMAL = 0
+WALLS = 1
+LINE = 2
+STOP = 3
 
-going_forward = True
-timer_period[0] = forward_time
-
-
-mode = FORWARD
+# Start
+mode = NORMAL
 
 @onevent
-def buttons():
-    global mode, motor_right_target, motor_left_target, going_forward
-    if button_forward:
-        mode=FORWARD
-    if button_backward:
-        mode=BACKWARD
-    going_forward = not going_forward
+def prox():
+    global mode, motor_left_target, motor_right_target
+
+    if mode == NORMAL:
+        nf_leds_top(0, 32, 0)  # Green
+        
+        if prox_horizontal[2] < 2500 or prox_horizontal[1] > 2500:
+            mode = WALLS
+            motor_left_target = -251 
+            motor_right_target = -251
+            
+    
+    elif mode == WALLS:
+        nf_leds_top(32, 0, 0)  # Red
+        
+        if prox_ground_delta[0] < 800 or prox_ground_delta[2] < 800:
+            mode = LINE
+            timer_period[0] = 1950 #turn during 1950ms            
+            motor_left_target = -251
+            motor_right_target = 251
 
 @onevent
 def timer0():
-    global leds_top, going_forward, motor_left_target, motor_right_target
-#     way_modif = (mode==FORWARD * 2 + 1)
-    if going_forward:
-        timer_period[0] = forward_time
-        nf_leds_top(0,32,0) # Green
-        motor_right_target = 250*mode # *way_modif
-        motor_left_target = 250*mode # *way_modif
-    else:
-        timer_period[0] = turn_time
-        nf_leds_top(32,16,0) # Orange
-        motor_right_target = 200*mode # *way_modif
-        motor_left_target = -200*mode # *way_modif
-    going_forward = not going_forward
+    global mode, motor_left_target, motor_right_target
+    # Check if the current mode is LINE to switch back to NORMAL
+    if mode == LINE:
+        motor_left_target = 251 
+        motor_right_target = 251
+        nf_leds_top(32, 32, 0) # Orange
+        mode = NORMAL
+        
+@onevent
+def buttons():
+    global motor_left_target, motor_right_target, mode
+    if button_center:
+        motor_left_target = 0
+        motor_right_target = 0
+        mode = STOP
+        nf_leds_top(0, 0, 0)  # Turn off all LEDs
         
 # ------------------------------------------------------------- #
 # ------------------------------------------------------------- #

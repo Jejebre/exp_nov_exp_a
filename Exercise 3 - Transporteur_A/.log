@@ -390,3 +390,28 @@ WI681de818
 WO681de823 
 WI681de829 
 WO681de833 
+WI681df200 
+OP681df214 %Run Transporter_exp_V2.py
+OP681df214 Traceback (most recent call last):
+OP681df214   
+OP681df214 File "/Users/jerome/Desktop/all/exp_nov_exp_a/Exercise 3 - Transporteur_A/Transporter_exp_V2.py", line 7, in <module>
+OP681df214     timer_period[0] = forward_time
+OP681df214 NameError: name 'timer_period' is not defined
+OP681df214 >>> 
+RN681df214 
+WO681df22d 
+WI681df23e 
+PS681df247 
+PS681df247 
+WO681df251 
+WI681df255 
+WO681df29c 
+WI681df2b1 
+WO681df2c8 
+WI681df2c8 
+WO681df2c8 
+WI681df2de 
+WO681df2f0 
+WI681df2fc 
+OP681df313 Python 3.10.11 (/Applications/Thonny.app/Contents/Frameworks/Python.framework/Versions/3.10/bin/python3.10)
+OP681df313 >>> 
