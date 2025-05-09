@@ -6,10 +6,8 @@ turn_time = 1100
 going_forward = True
 timer_period[0] = forward_time
 
-
 mode = FORWARD
-motor_right_target = 250
-motor_left_target = 250
+going_forward = True
 
 @onevent
 def buttons():
@@ -17,9 +15,13 @@ def buttons():
     if button_forward:
         mode=FORWARD
         going_forward = True
+        motor_right_target = 250
+        motor_left_target = 250
     if button_backward:
         mode=BACKWARD
         going_forward = False
+        motor_right_target = -250
+        motor_left_target = -250
 
 @onevent
 def timer0():
