@@ -1,5 +1,5 @@
-FORWARD = 0
-BACKWARD = 1
+FORWARD = 1
+BACKWARD = -1
 forward_time = 1800
 turn_time = 1100
 
