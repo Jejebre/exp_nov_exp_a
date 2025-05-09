@@ -14,9 +14,10 @@ def buttons():
     global mode, motor_right_target, motor_left_target, going_forward
     if button_forward:
         mode=FORWARD
+        going_forward = True
     if button_backward:
         mode=BACKWARD
-    going_forward = not going_forward
+        going_forward = False
 
 @onevent
 def timer0():
