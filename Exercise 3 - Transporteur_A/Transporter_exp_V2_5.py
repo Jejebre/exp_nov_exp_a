@@ -1,4 +1,57 @@
+# Constants
+NORMAL = 0
+WALLS = 1
+LINE = 2
+STOP = 3
 
+# Start
+mode = NORMAL
+
+@onevent
+def prox():
+    global mode, motor_left_target, motor_right_target
+    
+    print(prox_horizontal[2])
+
+    if mode == NORMAL:
+        nf_leds_top(0, 32, 0)  # Green
+        motor_left_target = 251 
+        motor_right_target = 251
+        
+        
+        if prox_horizontal[2] > 3900:
+            mode = WALLS
+            motor_left_target = -251 
+            motor_right_target = -251
+            
+    
+    elif mode == WALLS:
+        nf_leds_top(32, 0, 0)  # Red
+        
+        if prox_ground_delta[0] < 800 or prox_ground_delta[1] < 800:
+            mode = LINE
+            timer_period[0] = 1950 #turn during 1950ms            
+            motor_left_target = -251
+            motor_right_target = 251
+
+@onevent
+def timer0():
+    global mode, motor_left_target, motor_right_target
+    # Check if the current mode is LINE to switch back to NORMAL
+    if mode == LINE:
+        motor_left_target = 251 
+        motor_right_target = 251
+        nf_leds_top(32, 32, 0) # Orange
+        mode = NORMAL
+        
+@onevent
+def buttons():
+    global motor_left_target, motor_right_target, mode
+    if button_center:
+        motor_left_target = 0
+        motor_right_target = 0
+        mode = STOP
+        nf_leds_top(0, 0, 0)  # Turn off all LEDs
         
         
         
