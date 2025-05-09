@@ -22,7 +22,7 @@ def prox():
     
     elif mode == WALLS:
         nf_leds_top(32, 0, 0)  # Red
-        print(prox_ground_delta)
+        print(prox_ground_delta[0])
         if prox_ground_delta[0] < 500 or prox_ground_delta[1] < 200:
             mode = LINE
             timer_period[0] = 1950 #turn during 1950ms            
