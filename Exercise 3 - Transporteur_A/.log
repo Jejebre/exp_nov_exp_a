@@ -4,3 +4,27 @@ OP681df369 Compilation error: Access of array prox.ground.delta out of bounds: a
 OP681df414 Python 3.10.11 (/Applications/Thonny.app/Contents/Frameworks/Python.framework/Versions/3.10/bin/python3.10)
 OP681df414 >>> 
 OP681df425  --- Start of the program Bug_TheTransporter.py --- 
+OP681df455  --- Start of the program Bug_TheTransporter.py --- 
+OP681df457 LOGS: Wheels , -251 , -251
+OP681df458 LOGS: Wheels , -251 , 251
+OP681df45a LOGS: Wheels , 251 , 251
+OP681df45a LOGS: Wheels , -251 , -251
+OP681df45a LOGS: Wheels , -251 , 251
+OP681df45b LOGS: Acc , -3 , -7 , 19
+OP681df45c LOGS: Acc , -2 , -9 , 24
+OP681df45c LOGS: Wheels , 251 , 251
+OP681df45c LOGS: Acc , -5 , -10 , 15
+OP681df45d LOGS: Acc , -5 , -8 , 12
+OP681df45f LOGS: Acc , -6 , -9 , 15
+OP681df460 LOGS: Acc , -5 , -7 , 16
+OP681df484  --- Start of the program Bug_TheTransporter.py --- 
+OP681df486 LOGS: Acc , 1 , 1 , 24
+OP681df487 LOGS: Acc , 4 , 0 , 24
+OP681df488 LOGS: Wheels , -251 , -251
+OP681df489 LOGS: Wheels , -251 , 251
+OP681df48a LOGS: Acc , 11 , 1 , 15
+OP681df48a LOGS: center , pressed
+OP681df48a LOGS: Wheels , 0 , 0
+OP681df48a LOGS: center , released
+OP681df48a LOGS: Acc , 10 , 0 , 15
+OP681df48b LOGS: Acc , 0 , 7 , 24
