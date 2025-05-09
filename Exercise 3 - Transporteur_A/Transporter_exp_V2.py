@@ -39,8 +39,8 @@ def timer0():
             # Turn left
             timer_period[0] = turn_time
             nf_leds_top(32, 16, 0)  # Orange for turning
-            motor_right_target = -200
-            motor_left_target = 200
+            motor_right_target = 200
+            motor_left_target = -200
             going_forward = True
     elif mode == BACKWARD:
         if going_forward:
@@ -54,8 +54,8 @@ def timer0():
             # Turn right for backward square
             timer_period[0] = turn_time
             nf_leds_top(32, 16, 0)  # Orange for turning
-            motor_right_target = 200
-            motor_left_target = -200
+            motor_right_target = -200
+            motor_left_target = 200
             going_forward = True      
         
         
