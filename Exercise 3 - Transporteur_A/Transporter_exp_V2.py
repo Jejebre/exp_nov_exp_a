@@ -27,17 +27,36 @@ def buttons():
 def timer0():
     global leds_top, going_forward, motor_left_target, motor_right_target
     
-    way_modif = 1 if mode == FORWARD else -1
-    if going_forward:
-        timer_period[0] = forward_time
-        nf_leds_top(0,32,0) # Green
-        motor_right_target = 250*way_modif
-        motor_left_target = 250*way_modif
-    else:
-        timer_period[0] = turn_time
-        nf_leds_top(32,16,0) # Orange
-        motor_right_target = -200
-        motor_left_target = 200      
+    if mode == FORWARD:
+        if going_forward:
+            # Move straight forward
+            timer_period[0] = forward_time
+            nf_leds_top(0, 32, 0)  # Green for forward
+            motor_right_target = 250
+            motor_left_target = 250
+            going_forward = False
+        else:
+            # Turn left
+            timer_period[0] = turn_time
+            nf_leds_top(32, 16, 0)  # Orange for turning
+            motor_right_target = -200
+            motor_left_target = 200
+            going_forward = True
+    elif mode == BACKWARD:
+        if going_forward:
+            # Move straight backward
+            timer_period[0] = forward_time
+            nf_leds_top(32, 0, 0)  # Red for backward
+            motor_right_target = -250
+            motor_left_target = -250
+            going_forward = False
+        else:
+            # Turn right for backward square
+            timer_period[0] = turn_time
+            nf_leds_top(32, 16, 0)  # Orange for turning
+            motor_right_target = 200
+            motor_left_target = -200
+            going_forward = True      
         
         
         
