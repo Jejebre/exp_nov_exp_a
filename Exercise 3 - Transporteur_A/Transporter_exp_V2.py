@@ -4,11 +4,9 @@ forward_time = 1800
 turn_time = 1100
 
 going_forward = True
-timer_period[0] = forward_time
+timer_period[0] = 50
 
 mode = FORWARD
-motor_right_target = 250
-motor_left_target = 250
 
 @onevent
 def buttons():
