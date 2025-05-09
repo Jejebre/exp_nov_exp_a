@@ -46,10 +46,7 @@ def buttons():
         motor_left_target = 0
         motor_right_target = 0
         mode = STOP
-        nf_leds_top(0, 0, 0)  # Turn off all LEDs
-        
-        
-        
+        nf_leds_top(0, 0, 0)  # Turn off all LEDs      
         
 # ------------------------------------------------------------- #
 # ------------------------------------------------------------- #
