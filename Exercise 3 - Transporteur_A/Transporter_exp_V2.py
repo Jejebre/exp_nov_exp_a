@@ -10,6 +10,8 @@ mode = NORMAL
 @onevent
 def prox():
     global mode, motor_left_target, motor_right_target
+    
+    print()
 
     if mode == NORMAL:
         nf_leds_top(0, 32, 0)  # Green
