@@ -94,3 +94,22 @@ OP681db64b LOGS: Wheels , -251 , -251
 OP681db654  --- Start of the program Bug_TheTransporter.py --- 
 OP681db654 LOGS: Wheels , -251 , -251
 WO681db663 
+WI681db66e 
+OP681db687 Error: list variable 'prox_ground_delta' used in expression
+OP681db687     
+OP681db687 Line 25
+CP681db68b 
+CP681db68b 
+CP681db68d 
+CP681db68d 
+PS681db68e 
+PS681db68e 
+OP681db691 Error: list variable 'prox_ground_delta' used in expression
+OP681db691     
+OP681db691 Line 25
+OP681db692 Error: list variable 'prox_ground_delta' used in expression
+OP681db692     
+OP681db692 Line 25
+OP681db692 Error: list variable 'prox_ground_delta' used in expression
+OP681db692     
+OP681db692 Line 25
