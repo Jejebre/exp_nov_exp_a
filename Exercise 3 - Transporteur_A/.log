@@ -17,3 +17,30 @@ OP681db425     @onevent
 OP681db425 NameError: name 'onevent' is not defined
 OP681db425 >>> 
 RN681db425 
+OP681db43a Python 3.10.11 (/Applications/Thonny.app/Contents/Frameworks/Python.framework/Versions/3.10/bin/python3.10)
+OP681db43a >>> 
+OP681db442  --- Start of the program Bug_TheTransporter.py --- 
+OP681db442 LOGS: Wheels , -251 , -251
+OP681db442 LOGS: Wheels , -251 , 251
+OP681db444 LOGS: Wheels , -251 , -251
+OP681db446 LOGS: Wheels , -251 , 251
+OP681db448 LOGS: Wheels , 251 , 251
+OP681db448 LOGS: Wheels , -251 , -251
+OP681db44a LOGS: Wheels , -251 , 251
+OP681db44c LOGS: Wheels , -251 , -251
+OP681db44e LOGS: Wheels , 251 , 251
+OP681db44e LOGS: Wheels , -251 , -251
+OP681db44e LOGS: Wheels , -251 , 251
+OP681db450 LOGS: Wheels , 251 , 251
+OP681db450 LOGS: Wheels , -251 , -251
+OP681db452 LOGS: Wheels , -251 , 251
+OP681db452 LOGS: Wheels , -251 , -251
+OP681db452 LOGS: Wheels , -251 , 251
+OP681db456  --- Start of the program Bug_TheTransporter.py --- 
+OP681db456 LOGS: Wheels , -251 , -251
+OP681db45b LOGS: Wheels , -251 , 251
+OP681db45c  --- Start of the program Bug_TheTransporter.py --- 
+OP681db45c LOGS: Wheels , -251 , -251
+OP681db45c LOGS: Wheels , -251 , 251
+OP681db463  --- Start of the program Bug_TheTransporter.py --- 
+OP681db463 LOGS: Wheels , -251 , -251
