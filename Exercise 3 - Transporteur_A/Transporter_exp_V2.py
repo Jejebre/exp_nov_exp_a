@@ -1,7 +1,7 @@
 FORWARD = 0
 BACKWARD = 1
 forward_time = 1800  # Time to move straight, adjust based on robot speed
-turn_time = 900      # Time to turn about 90 degrees, adjust as needed
+turn_time = 600      # Time to turn about 90 degrees, adjust as needed
 
 going_forward = True
 timer_period[0] = 100
@@ -26,16 +26,16 @@ def timer0():
     if going_forward:
         timer_period[0] = forward_time
         # Set motors for forward movement
-        motor_left_target = 250 * way_modifier
-        motor_right_target = 250 * way_modifier
+        motor_left_target = 400 * way_modifier
+        motor_right_target = 400 * way_modifier
 
         # Set to turn at the end of the forward movement
         going_forward = False
     else:
         timer_period[0] = turn_time
         # Set motors for turning
-        motor_left_target = 200 * way_modifier
-        motor_right_target = -200 * way_modifier
+        motor_left_target = 400 * way_modifier
+        motor_right_target = -400 * way_modifier
 
         # Set to move forward again after the turn
         going_forward = True    
