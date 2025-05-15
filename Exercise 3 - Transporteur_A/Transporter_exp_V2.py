@@ -16,24 +16,7 @@ def prox():
         motor_left_target = 10
         motor_right_target = 10
 
-
-@onevent
-def timer0():
-    global mode, motor_left_target, motor_right_target
-    if mode == LINE:
-        motor_left_target = 251
-        motor_right_target = 251
-        nf_leds_top(32, 32, 0)  # Orange light during LINE mode
-        mode = NORMAL
-
-@onevent
-def buttons():
-    global motor_left_target, motor_right_target, mode
-    if button_center:
-        motor_left_target = 0
-        motor_right_target = 0
-        mode = STOP
-        nf_leds_top(0, 0, 0)  # Turn off all LEDs for STOP mode     
+  
         
         
 # ------------------------------------------------------------- #
