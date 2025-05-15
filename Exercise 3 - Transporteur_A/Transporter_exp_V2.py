@@ -1,7 +1,7 @@
 FORWARD = 0
 BACKWARD = 1
 forward_time = 1800  # Time to move straight, adjust based on robot speed
-turn_time = 650      # Time to turn about 90 degrees, adjust as needed
+turn_time = 630      # Time to turn about 90 degrees, adjust as needed
 speed = 400
 going_forward = True
 timer_period[0] = 100

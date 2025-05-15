@@ -292,3 +292,59 @@ OP6825b5b6 LOGS: Wheels , 400 , 400
 OP6825b5b7 LOGS: Acc , 4 , 1 , 17
 OP6825b5b7 LOGS: Wheels , -400 , 400
 OP6825b5b8 LOGS: Wheels , 400 , 400
+OP6825b5bb LOGS: Wheels , 400 , 400
+OP6825b5bc LOGS: Wheels , -400 , 400
+OP6825b5bd LOGS: Wheels , 400 , 400
+OP6825b5bf LOGS: Wheels , 400 , 400
+OP6825b5c1 LOGS: Wheels , -400 , 400
+OP6825b5c2 LOGS: Wheels , 400 , 400
+OP6825b5c4 LOGS: Wheels , -400 , 400
+OP6825b5c4 LOGS: Acc , 4 , -4 , 12
+OP6825b5c4 LOGS: Wheels , 400 , 400
+OP6825b5c5 LOGS: Acc , 4 , -12 , 26
+OP6825b5c6 LOGS: Acc , 2 , -11 , 9
+OP6825b5c6 LOGS: Wheels , -400 , 400
+OP6825b5c7 LOGS: Acc , 0 , -9 , 15
+OP6825b5c7 LOGS: Wheels , 400 , 400
+OP6825b5c7 LOGS: Acc , 0 , -9 , 21
+OP6825b5c9 LOGS: Wheels , -400 , 400
+OP6825b5c9 LOGS: Wheels , 400 , 400
+OP6825b5ca LOGS: backward , pressed
+OP6825b5ca LOGS: backward , released
+OP6825b5cb LOGS: Wheels , -400 , -400
+OP6825b5cc LOGS: Acc , -6 , -4 , 19
+OP6825b5cf  --- Start of the program Bug_TheTransporter.py --- 
+OP6825b5cf LOGS: Wheels , 400 , 400
+OP6825b5d7  --- Start of the program Bug_TheTransporter.py --- 
+OP6825b5d7 LOGS: Wheels , 400 , 400
+OP6825b5db  --- Start of the program Bug_TheTransporter.py --- 
+OP6825b5db LOGS: Acc , 4 , -13 , 13
+OP6825b5db LOGS: Wheels , 400 , 400
+OP6825b5dc LOGS: Acc , -5 , -8 , 21
+OP6825b5dd LOGS: Acc , 2 , 7 , 24
+OP6825b5dd LOGS: Wheels , -400 , 400
+OP6825b5de LOGS: Wheels , 400 , 400
+OP6825b5df  --- Start of the program Bug_TheTransporter.py --- 
+OP6825b5e1 LOGS: Wheels , -400 , 400
+OP6825b5e1 LOGS: Wheels , 400 , 400
+OP6825b5e3 LOGS: Wheels , -400 , 400
+OP6825b5e4 LOGS: Wheels , 400 , 400
+OP6825b5e6 LOGS: Wheels , -400 , 400
+OP6825b5e6 LOGS: Wheels , 400 , 400
+OP6825b5e7 LOGS: Acc , 4 , -2 , 14
+OP6825b5e8 LOGS: Wheels , -400 , 400
+OP6825b5e9 LOGS: Wheels , 400 , 400
+OP6825b5ea LOGS: backward , pressed
+OP6825b5ea LOGS: backward , released
+OP6825b5eb LOGS: Wheels , -400 , -400
+OP6825b5ec LOGS: Wheels , 400 , -400
+OP6825b5ed LOGS: Wheels , -400 , -400
+OP6825b5ef LOGS: Wheels , 400 , -400
+OP6825b5f0 LOGS: Wheels , -400 , -400
+OP6825b5f1 LOGS: Wheels , 400 , -400
+OP6825b5f2 LOGS: Wheels , -400 , -400
+OP6825b5f3 LOGS: forward , pressed
+OP6825b5f3 LOGS: forward , released
+OP6825b5f4 LOGS: Wheels , 400 , 400
+OP6825b5f6 LOGS: Wheels , -400 , 400
+OP6825b5f6 LOGS: Wheels , 400 , 400
