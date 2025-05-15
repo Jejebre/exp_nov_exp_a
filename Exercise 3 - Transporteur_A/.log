@@ -348,3 +348,39 @@ OP6825b5f3 LOGS: forward , released
 OP6825b5f4 LOGS: Wheels , 400 , 400
 OP6825b5f6 LOGS: Wheels , -400 , 400
 OP6825b5f6 LOGS: Wheels , 400 , 400
+OP6825b5f8 LOGS: Wheels , -400 , 400
+OP6825b5f9 LOGS: Wheels , 400 , 400
+OP6825b5fb LOGS: Wheels , -400 , 400
+OP6825b5fb LOGS: Wheels , 400 , 400
+OP6825b5fd LOGS: center , released
+OP6825b5fd LOGS: Wheels , -400 , 400
+OP6825b5fe LOGS: Wheels , 400 , 400
+OP6825b5ff LOGS: Wheels , -400 , 400
+WO6825b60a 
+WI6825b60d 
+OP6825b619  --- Start of the program Bug_TheTransporter.py --- 
+OP6825b619 LOGS: Wheels , 400 , 400
+OP6825b61b LOGS: Wheels , -400 , 400
+OP6825b61c LOGS: Wheels , 400 , 400
+OP6825b61e LOGS: Wheels , -400 , 400
+OP6825b61e LOGS: Wheels , 400 , 400
+OP6825b620 LOGS: Wheels , -400 , 400
+OP6825b621 LOGS: Wheels , 400 , 400
+OP6825b623 LOGS: Wheels , -400 , 400
+OP6825b623 LOGS: Wheels , 400 , 400
+OP6825b625 LOGS: Wheels , -400 , 400
+OP6825b626 LOGS: Wheels , 400 , 400
+OP6825b626 LOGS: backward , pressed
+OP6825b627 LOGS: backward , released
+OP6825b628 LOGS: Wheels , -400 , -400
+OP6825b629 LOGS: Wheels , 400 , -400
+OP6825b62c LOGS: Wheels , 400 , -400
+OP6825b62d LOGS: Wheels , -400 , -400
+OP6825b62e LOGS: Wheels , 400 , -400
+OP6825b62f LOGS: Wheels , -400 , -400
+OP6825b631 LOGS: Wheels , 400 , -400
+OP6825b631 LOGS: Wheels , -400 , -400
+OP6825b633 LOGS: Wheels , 400 , -400
+OP6825b634 LOGS: Wheels , -400 , -400
+OP6825b635 LOGS: forward , pressed
+OP6825b635 LOGS: forward , released
