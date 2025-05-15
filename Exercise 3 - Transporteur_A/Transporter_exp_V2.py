@@ -6,29 +6,7 @@ STOP = 3
 print("hello")
 # Start
 mode = NORMAL
-# motoer_left_target
-# 
-# Initializations for timers (assuming they're named this way)
-timer_period = 0
-timer_period111 = 0
 
-# Proximity sensors (you must replace these with actual values/initializations)
-prox_horizontal222 = 0  # Placeholder value
-prox_horizontal111 = 0  # Placeholder value
-prox_ground_delta000 = 0  # Placeholder value
-prox_ground_delta222 = 0  # Placeholder value
-
-# Accelerometer values (again, replace these with actual values)
-acc000 = 0
-acc111 = 0
-acc222 = 0
-
-# Button states (these should be linked to actual button states)
-button_center = False
-button_left = False
-button_right = False
-button_forward = False
-button_backward = False
 
 @onevent
 def prox():
