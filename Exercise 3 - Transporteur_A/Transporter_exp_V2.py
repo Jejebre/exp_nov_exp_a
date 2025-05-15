@@ -3,42 +3,61 @@ NORMAL = 0
 WALLS = 1
 LINE = 2
 STOP = 3
-
+print("hello")
 # Start
 mode = NORMAL
+
+# Initializations for timers (assuming they're named this way)
+timer_period000 = 0
+timer_period111 = 0
+
+# Proximity sensors (you must replace these with actual values/initializations)
+prox_horizontal222 = 0  # Placeholder value
+prox_horizontal111 = 0  # Placeholder value
+prox_ground_delta000 = 0  # Placeholder value
+prox_ground_delta222 = 0  # Placeholder value
+
+# Accelerometer values (again, replace these with actual values)
+acc000 = 0
+acc111 = 0
+acc222 = 0
+
+# Button states (these should be linked to actual button states)
+button_center = False
+button_left = False
+button_right = False
+button_forward = False
+button_backward = False
 
 @onevent
 def prox():
     global mode, motor_left_target, motor_right_target
-
     if mode == NORMAL:
-        nf_leds_top(0, 32, 0)  # Green
-        
-        if prox_horizontal[2] < 2500 or prox_horizontal[1] > 2500:
+        nf_leds_top(0, 32, 0)  # Green light for NORMAL mode
+
+        if prox_horizontal222 < 2500 or prox_horizontal111 > 2500:
             mode = WALLS
-            motor_left_target = -251 
+            motor_left_target = -251
             motor_right_target = -251
-            
-    
+
     elif mode == WALLS:
-        nf_leds_top(32, 0, 0)  # Red
-        
-        if prox_ground_delta[0] < 800 or prox_ground_delta[2] < 800:
+        nf_leds_top(32, 0, 0)  # Red light for WALLS mode
+
+        if prox_ground_delta000 < 800 or prox_ground_delta222 < 800:
             mode = LINE
-            timer_period[0] = 1950 #turn during 1950ms            
+            timer_period000 = 1950  # Turn duration in LINE mode
             motor_left_target = -251
             motor_right_target = 251
 
 @onevent
 def timer0():
     global mode, motor_left_target, motor_right_target
-    # Check if the current mode is LINE to switch back to NORMAL
     if mode == LINE:
-        motor_left_target = 251 
+        motor_left_target = 251
         motor_right_target = 251
-        nf_leds_top(32, 32, 0) # Orange
+        nf_leds_top(32, 32, 0)  # Orange light during LINE mode
         mode = NORMAL
-        
+
 @onevent
 def buttons():
     global motor_left_target, motor_right_target, mode
@@ -46,9 +65,7 @@ def buttons():
         motor_left_target = 0
         motor_right_target = 0
         mode = STOP
-        nf_leds_top(0, 0, 0)  # Turn off all LEDs
-        
-        
+        nf_leds_top(0, 0, 0)  # Turn off all LEDs for STOP mode     
         
         
 # ------------------------------------------------------------- #
