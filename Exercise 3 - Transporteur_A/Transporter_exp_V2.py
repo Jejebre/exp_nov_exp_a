@@ -6,9 +6,10 @@ STOP = 3
 print("hello")
 # Start
 mode = NORMAL
-
+# motoer_left_target
+# 
 # Initializations for timers (assuming they're named this way)
-timer_period000 = 0
+timer_period = 0
 timer_period111 = 0
 
 # Proximity sensors (you must replace these with actual values/initializations)
