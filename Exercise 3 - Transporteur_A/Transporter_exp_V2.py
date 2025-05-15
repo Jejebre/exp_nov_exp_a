@@ -1,7 +1,7 @@
 FORWARD = 0
 BACKWARD = 1
-forward_time = 1800  # Adjust this according to your robot's speed and square size
-turn_time = 900      # Adjust this for a 90-degree turn, adjust as needed for precision
+forward_time = 1800  # Time to move straight, adjust based on robot speed
+turn_time = 900      # Time to turn about 90 degrees, adjust as needed
 
 going_forward = True
 timer_period[0] = 100
@@ -20,26 +20,25 @@ def buttons():
 
 @onevent
 def timer0():
-    global leds_top, going_forward, motor_left_target, motor_right_target
+    global going_forward, motor_left_target, motor_right_target
     way_modifier = 1 if mode == FORWARD else -1
 
     if going_forward:
         timer_period[0] = forward_time
-        leds_top(0, 32, 0)  # Green for forward
+        # Set motors for forward movement
         motor_left_target = 250 * way_modifier
         motor_right_target = 250 * way_modifier
 
-        # Switch to turning after moving straight
+        # Set to turn at the end of the forward movement
         going_forward = False
     else:
         timer_period[0] = turn_time
-        leds_top(32, 16, 0)  # Orange for turning
+        # Set motors for turning
         motor_left_target = 200 * way_modifier
         motor_right_target = -200 * way_modifier
 
-        # Switch to moving forward after a turn
-        going_forward = True  
-    
+        # Set to move forward again after the turn
+        going_forward = True    
     
         
 # ------------------------------------------------------------- #

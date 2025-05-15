@@ -111,3 +111,26 @@ OP6825b43a
 OP6825b43a Line 28
 CP6825b440 
 WO6825b443 
+WI6825b462 
+PS6825b46d 
+PS6825b46d 
+OP6825b46f  --- Start of the program Bug_TheTransporter.py --- 
+OP6825b46f LOGS: Wheels , 250 , 250
+OP6825b471 LOGS: Wheels , 200 , -200
+OP6825b472 LOGS: Wheels , 250 , 250
+OP6825b474 LOGS: Wheels , 200 , -200
+OP6825b474 LOGS: Wheels , 250 , 250
+OP6825b476 LOGS: Wheels , 200 , -200
+OP6825b477 LOGS: Wheels , 250 , 250
+OP6825b479 LOGS: Wheels , 200 , -200
+OP6825b47a LOGS: Wheels , 250 , 250
+OP6825b47b LOGS: backward , pressed
+OP6825b47b LOGS: backward , released
+OP6825b47c LOGS: Wheels , -250 , -250
+OP6825b47d LOGS: Wheels , -200 , 200
+OP6825b47e LOGS: Wheels , -250 , -250
+OP6825b480 LOGS: Wheels , -200 , 200
+OP6825b481 LOGS: Acc , -3 , -9 , 25
+OP6825b481 LOGS: Wheels , -250 , -250
+OP6825b482 LOGS: Acc , -7 , 9 , 23
+OP6825b483 LOGS: Wheels , -200 , 200
