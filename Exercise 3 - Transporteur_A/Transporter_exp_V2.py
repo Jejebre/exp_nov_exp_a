@@ -35,20 +35,9 @@ def prox():
     global mode, motor_left_target, motor_right_target
     if mode == NORMAL:
         nf_leds_top(0, 32, 0)  # Green light for NORMAL mode
+        motor_left_target = 10
+        motor_right_target = 10
 
-        if prox_horizontal[2] > 2500:
-            mode = WALLS
-            motor_left_target = -251
-            motor_right_target = 251
-
-    elif mode == WALLS:
-        nf_leds_top(32, 0, 0)  # Red light for WALLS mode
-
-        if prox_ground_delta000 < 800 or prox_ground_delta222 < 800:
-            mode = LINE
-            timer_period000 = 1950  # Turn duration in LINE mode
-            motor_left_target = -251
-            motor_right_target = 251
 
 @onevent
 def timer0():
