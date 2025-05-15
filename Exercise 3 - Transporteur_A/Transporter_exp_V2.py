@@ -3,21 +3,9 @@ NORMAL = 0
 WALLS = 1
 LINE = 2
 STOP = 3
-print("hello")
 # Start
 mode = NORMAL
-
-
-@onevent
-def prox():
-    global mode, motor_left_target, motor_right_target
-    if mode == NORMAL:
-        nf_leds_top(0, 32, 0)  # Green light for NORMAL mode
-        motor_left_target = 10
-        motor_right_target = 10
-
-  
-        
+    
         
 # ------------------------------------------------------------- #
 # ------------------------------------------------------------- #
