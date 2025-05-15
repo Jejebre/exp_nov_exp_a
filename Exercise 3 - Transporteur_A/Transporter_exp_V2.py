@@ -14,15 +14,16 @@ def buttons():
     global mode, motor_right_target, motor_left_target, going_forward
     if button_forward:
         mode=FORWARD
-        goin
+        going_forward = True
     if button_backward:
         mode=BACKWARD
-    going_forward = not going_forward
+        going_forward = False
+#  going_forward = not going_forward
 
 @onevent
 def timer0():
     global leds_top, going_forward, motor_left_target, motor_right_target
-    going_forward = not going_forward
+# going_forward = not going_forward
     way_modif = (mode==FORWARD * 2 + 1)
     if going_forward:
         timer_period[0] = forward_time
