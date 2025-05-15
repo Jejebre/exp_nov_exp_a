@@ -22,3 +22,16 @@ WO6825af2e
 WI6825af3d 
 WO6825af54 
 WI6825af57 
+OP6825af72 Python 3.10.11 (/Applications/Thonny.app/Contents/Frameworks/Python.framework/Versions/3.10/bin/python3.10)
+OP6825af72 >>> 
+OP6825af7b Warning: in function 'prox', redefining variable 'timer_period000' from outer scope
+OP6825af7b     
+OP6825af7b Line 33
+OP6825af7b hello
+OP6825af7b  --- Start of the program Bug_TheTransporter.py --- 
+OP6825af7b LOGS: Wheels , -251 , -251
+OP6825af7b LOGS: Wheels , -251 , 251
+WO6825af8b 
+WI6825af8c 
+WO6825af8d 
+WI6825afa6 
